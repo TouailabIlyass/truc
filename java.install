@@ -1,0 +1,2 @@
+sudo update-alternatives --install "/usr/bin/java" "java" "/opt/java/jdk1.8.0_181/bin/java" 1
+sudo update-alternatives --set java /opt/java/jdk1.8.0_181/bin/java

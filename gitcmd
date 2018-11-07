@@ -1,0 +1,4 @@
+git log --oneline -p file
+git checkout <id|master> [file]
+git reset <--hard|id> :revenir audernier commit --hard modif workspace
+git reset id --hard :modif workspace

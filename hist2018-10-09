@@ -1,0 +1,514 @@
+    1  sudo apt install npm
+    2  x
+    3  exit
+    4  sudo apt update 
+    5  sudo apt install npm
+    6  npm install youtube-dl
+    7  cd Downloads/
+    8  ls
+    9  dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~zesty_i386.deb 
+   10  sudo dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~zesty_i386.deb 
+   11  sudo apt install -f
+   12  sudo apt install gedit
+   13  sudo dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~zesty_i386.deb 
+   14  cd LinuxMint182i3-master/installation/
+   15  ls
+   16  ./automatic-installation-v1.sh 
+   17  sudo apt install -f
+   18  sudo dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~zesty_i386.deb 
+   19  cd ../..
+   20  sudo dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~zesty_i386.deb 
+   21  sudo apt autoremove -f
+   22  sudo apt install vim
+   23  sudo apt install vim-gnome
+   24  ping 8.8.8.8
+   25  cd Downloads/
+   26  ls
+   27  sudo apt install -f
+   28  cd LinuxMint182i3-master/
+   29  sudo apt install i3*
+   30  sudo apt update 
+   31  sudo apt dist-upgrade 
+   32  sudo apt install git
+   33  sudo apt install clon
+   34  sudo apt install clone
+   35  ls
+   36  cd installation/
+   37  ls
+   38  ./automatic-installation-v1.sh 
+   39  ping 8.8.8.8
+   40  cd Downloads/
+   41  ls
+   42  sudo dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~zesty_i386.deb 
+   43  sudo apt autoremove -f
+   44  sudo apt install virtualbox-5.2 
+   45  sudo apt install -f
+   46  sudo apt install virtualbox-5.2 
+   47  exit
+   48  cd Downloads/LinuxMint182i3-master/installation/
+   49  ls
+   50  ./automatic-installation-v1.sh 
+   51  sudo apt install i3*
+   52  cd
+   53  sudo apt-get update 
+   54  sudo apt-get install virtualbox-5.2 
+   55  sudo apt-get install virtualbox
+   56  sudo apt-get install virtualbox-5.2 
+   57  ping 8.8.8.8
+   58  sudo apt update 
+   59  sudo apt-get install virtualbox-5.2 
+   60  ifconfig 
+   61  cd Downloads/
+   62  cd LinuxMint182i3-master/installation/
+   63  ./automatic-installation-v1.sh 
+   64  cd
+   65  sudo apt install virtualbox-5.2 
+   66  cd Downloads/
+   67  ls
+   68  dpkg virtualbox-5.2_5.2.18-124319~Ubuntu~xenial_i386.deb
+   69  dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~xenial_i386.deb
+   70  sudo dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~xenial_i386.deb
+   71  sudo apt --inst
+   72  sudo apt --install
+   73  sudo apt --install -f
+   74  sudo add-apt-repository "deb http://download.virtualbox.org/virtualbox/debian `lsb_release -cs` contrib"
+   75  sudo dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~xenial_i386.deb
+   76  sudo apt --inst
+   77  sudo apt --install
+   78  sudo apt install 
+   79  sudo apt install -f
+   80  sudo usermod -a -G vboxusers drging 
+   81  sudo apt install nano
+   82  x
+   83  sudo apt install vlc
+   84  npm insta youtube-dl
+   85  sudo npm insta youtube-dl
+   86  sudo usermod -a -G vboxusers drging > ./Desktop/myrep 
+   87  sudo add-apt-repository "deb http://download.virtualbox.org/virtualbox/debian `lsb_release -cs` contrib" >> ./Desktop/myrep 
+   88  echo add-apt-repository "deb http://download.virtualbox.org/virtualbox/debian `lsb_release -cs` contrib" >> ./Desktop/myrep 
+   89  echo usermod -a -G vboxusers drging >> ./Desktop/myrep 
+   90  cat ./Desktop/myrep 
+   91  exit
+   92  sudo apt install ranger 
+   93  sudo apt install rxvt*
+   94  sudo apt install rxvt
+   95  sudo apt update 
+   96  sudo gedit /etc/apt/sources.list
+   97  sudo gedit /etc/apt/sources.list.d/additional-repositories.list 
+   98  sudo apt update 
+   99  sudo apt install ranger 
+  100  sudo apt install rxvt-unicode-256color 
+  101  sudo apt install rxvt-ml
+  102  sudo apt install  i3*
+  103  sudo apt install  i3-wm
+  104  exit
+  105  cd .config/i3
+  106  vim config
+  107  exit
+  108  sudo apt install build-essential 
+  109  git clone https://www.github.com/Airblader/i3 i3-gaps
+  110  cd i3-gaps/
+  111  autoreconf --force --install
+  112  rm -rf build/
+  113  mkdir -p build && cd build/
+  114  make
+  115  ../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers
+  116  make
+  117  sudo make install
+  118  sudo apt install i3-wm
+  119  cd Downloads/
+  120  ls
+  121  cd LinuxMint182i3-master/installation/
+  122  ls
+  123  ./120-install-i3-gaps-next-v1.sh 
+  124  sudo apt remove i3
+  125  sudo apt install i3
+  126  ls
+  127  ./400-install-fonts-v1.sh 
+  128  ls
+  129  ./100-install-dependencies-v1.sh 
+  130  ls
+  131  ./110-install-xcb-util-xrm-v1.sh 
+  132  ls
+  133  ./120-install-i3-gaps-next-v1.sh 
+  134  cd
+  135  sudo apt upgrade 
+  136  sudo apt update 
+  137  vim .config/i3/config
+  138  exit
+  139  x
+  140  exit
+  141  ranger 
+  142  urxvt
+  143  exit
+  144  x
+  145  exit
+  146  urxvt
+  147  exit
+  148  ranger --copy=config
+  149  ranger --copy-config
+  150  ranger --copy-config=all
+  151  sudo apt install w3m w3m-img 
+  152  sudo apt install screenfetch 
+  153  sudo apt install figlet neofetch 
+  154  screenfetch 
+  155  top
+  156  free -h
+  157  sudo apt install youtube-dl 
+  158  cd Downloads/LinuxMint182i3-master/installation/
+  159  ls
+  160  ./120-install-i3-gaps-next-v1.sh 
+  161  ping 8.8.8.8
+  162  ./120-install-i3-gaps-next-v1.sh 
+  163  cd
+  164  cd betterlockscreen/
+  165  ls
+  166  ./script_install_BetterLock 
+  167  ls
+  168  ./lock.sh 
+  169  vim lock_cmd 
+  170  ls
+  171  chmod +x lock_cmd 
+  172  cat lock_cmd 
+  173  ./lock_cmd 
+  174  lock --update /home/kingdragon/Pictures/bleach/wallpapers/10.jpg
+  175  ./lock --update /home/kingdragon/Pictures/bleach/wallpapers/10.jpg
+  176  ./lock.sh --update /home/kingdragon/Pictures/bleach/wallpapers/10.jpg
+  177  ./lock.sh --wall
+  178  exit
+  179  vim i3t
+  180  ls
+  181  chmod + i3t 
+  182  ls
+  183  ls -l
+  184  chmod +x i3t 
+  185  ls
+  186  ./i3t 
+  187  sudo ./i3t 
+  188  exit
+  189  sudo apt remove i3*
+  190  sudo apt remove i3blocks   i3lock     i3status   i3-wm      i3-wm-dbg  
+  191  sudo apt install i3status 
+  192  sudo apt install i3blocks
+  193  sudo apt-get install libxcb-xrm-dev
+  194  sudo autoremove
+  195  sudo apt autoremove -f
+  196  sudo apt-get install libxcb1-dev libxcb-keysyms1-dev libpango1.0-dev libxcb-util0-dev libxcb-icccm4-dev libyajl-dev libstartup-notification0-dev libxcb-randr0-dev libev-dev libxcb-cursor-dev libxcb-xinerama0-dev libxcb-xkb-dev libxkbcommon-dev libxkbcommon-x11-dev 
+  197  make
+  198  ls
+  199  mv Makefile.am Makefile
+  200  ls
+  201  make
+  202  make all
+  203  make
+  204  cat Makefile 
+  205  cd ..
+  206  ls
+  207  make
+  208  cat Makefile 
+  209  cat Makefile.am 
+  210  mv Makefile.am Makefile
+  211  make
+  212  exit
+  213  sudo apt-get install flatpak
+  214  sudo apt-get install libostree libostree-1-1
+  215  sudo apt-get install glib2
+  216  sudo apt-get install bubblewrap libflatpak0 typelib-1_0-Flatpak-1_0
+  217  sudo apt-get install bubblewrap libflatpak0
+  218  sudo apt-get install libflatpak0
+  219  flatpak list
+  220  sudo apt-get upgrade 
+  221  sudo apt-get update 
+  222  sudo apt-get upgrade 
+  223  sudo apt-get install libglib2.0-0
+  224  sudo apt-get install libglib*
+  225  sudo apt-get update libglib2
+  226  sudo apt-get update
+  227  sudo apt-get upgrade 
+  228  exit
+  229  nmcli device wifi connect SAGEM_D28C password UE2GYKRX
+  230  cd Downloads/
+  231  ls
+  232  cd LinuxMint182i3-master/installation/
+  233  ls
+  234  ./120-install-i3-gaps-next-v1.sh 
+  235  for_window [class="^.*"] border pixel 2
+  236  ERROR: CONFIG: Line 776: gaps inner 5
+  237  ERROR: CONFIG:           ^^^^^^^^^^^^
+  238  cd
+  239  git clone https://www.github.com/Airblader/i3 i3-gaps
+  240  cd i3-gaps/
+  241  ls
+  242  cd
+  243  cd Downloads/LinuxMint182i3-master/installation/
+  244  ls
+  245  ./120-install-i3-gaps-next-v1.sh 
+  246  cd 
+  247  cd i3-gaps/
+  248  autoreconf --force --install
+  249  ls
+  250  cd ..
+  251  ls
+  252  ls -l
+  253  sudo chown -R drging: i3-gaps/
+  254  ls -l
+  255  cd i3-gaps/
+  256  autoreconf --force --install
+  257  rm -rf build/
+  258  mkdir -p build && cd build/
+  259  ../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers
+  260  make
+  261  cd
+  262  au
+  263  sudo add-apt-repository ppa:eugenesan/ppa
+  264  sudo apt-get update 
+  265  sudo apt-get install libglib*
+  266  sudo apt-get update 
+  267  sudo apt-get upgrade 
+  268  sudo dpkg-reconfigure locales
+  269  sudo update-locale LANG=en_US.UTF-8
+  270  sudo locale-gen --purge --no-archive
+  271  sudo update-locale LANG=en_US.UTF-8
+  272  exit
+  273  grep g_utf8_make_valid *.h
+  274  sudo apt update 
+  275  sudo apt upgrade 
+  276  sudo apt dist-upgrade 
+  277  sudo gedit /etc/apt/sources.list
+  278  rm /etc/apt/sources.list.d/eugenesan-ppa-xenial.list 
+  279  sudo rm /etc/apt/sources.list.d/eugenesan-ppa-xenial.list 
+  280  sudo apt update 
+  281  sudo rm /etc/apt/sources.list.d/maarten-baert-simplescreenrecorder-xenial.list 
+  282  sudo apt update 
+  283  free -h
+  284  cd glib/
+  285  grep g_utf8_make_valid *.h
+  286  exit
+  287  find / -f -name "stdio.c"
+  288  find / -type f -name "stdio.c"
+  289  exit
+  290  cd i3-gaps/
+  291  cd build/
+  292  make
+  293  cd ~/Downloads/
+  294  ls
+  295  cd glib-2.58.1/
+  296  cd glib/
+  297  grep g_utf8_make_valid *.h
+  298  cd
+  299  cd i3
+  300  ls
+  301  cd i3-gaps/
+  302  autoreconf --force --install
+  303  rm -rf build/
+  304  mkdir -p build && cd build/
+  305  ../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers
+  306  make
+  307  autoreconf --force --install
+  308  rm -rf build/
+  309  mkdir -p build && cd build/
+  310  ../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers
+  311  make
+  312  cd ..
+  313  ..
+  314  cd ..
+  315  autoreconf --force --install
+  316  mkdir -p build && cd build/
+  317  ../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers
+  318  make
+  319  cd ..
+  320  autoreconf --force --install
+  321  mkdir -p build && cd build/
+  322  ../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers
+  323  make
+  324  exit
+  325  sudo apt update 
+  326  sudo apt install libev-dev 
+  327  sudo apt install libgli
+  328  cd i3-gaps/
+  329  autoreconf --force --install
+  330  rm -rf build/
+  331  mkdir -p build && cd build/
+  332  ../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers
+  333  make
+  334  sudo nemo .
+  335  exit
+  336  man useradd
+  337  useradd test
+  338  sudo useradd test
+  339  sudo passwd test
+  340  exit
+  341  sudo passwd root
+  342  sudo nemo .
+  343  userexit
+  344  sudo dpkg --remove virtualbox-5.2 
+  345  cd Downloads/
+  346  ls
+  347  chmod +x xampp-linux-x64-7.0.32-0-installer.run 
+  348  ./xampp-linux-x64-7.0.32-0-installer.run 
+  349  sudo ./xampp-linux-x64-7.0.32-0-installer.run 
+  350  sudo apt install virtualbox-5.2 
+  351  sudo apt install libqt5core5a 
+  352  sudo apt update 
+  353  sudo apt dist-upgrade 
+  354  screenfetch 
+  355  sudo apt install build-essential 
+  356  sudo apt install libfontconfig1
+  357  sudo apt install mesa-common-dev
+  358  sudo apt install libgl1-mesa-dev
+  359  wget http://download.qt.io/official_releases/qt/5.7/5.7.0/qt-opensource-linux-x64-5.7.0.run
+  360  sudo apt install libqt5gui5-gles 
+  361  sudo apt install libqt5opengl5-gles
+  362  sudo apt install libqt5opengl5-gles-dev 
+  363  sudo apt install libqt5opengl5-dev 
+  364  sudo apt install -f
+  365  sudo apt autoremove -f
+  366  sudo apt install libqt5opengl5-dev 
+  367  dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~zesty_amd64.deb 
+  368  sudo dpkg -i virtualbox-5.2_5.2.18-124319~Ubuntu~zesty_amd64.deb 
+  369  chmod +x qt-unified-linux-x64-3.0.5-online.run 
+  370  sudo ./qt-unified-linux-x64-3.0.5-online.run 
+  371  sudo apt install -f
+  372  sudo apt update 
+  373  sudo apt upgrade 
+  374  sudo apt install i3status 
+  375  vim /etc/i3status.conf 
+  376  cp /etc/i3status.conf /etc/i3status.conf.default
+  377  sudo cp /etc/i3status.conf /etc/i3status.conf.default
+  378  vim /etc/i3status.conf 
+  379  sudo vim /etc/i3status.conf 
+  380  x
+  381  make
+  382  cat Makefile.in 
+  383  cp Makefile.in Makefile
+  384  make
+  385  sudo mv vcprompt /bin/bash 
+  386  bash
+  387  sudo nemo .
+  388  bash
+  389  exit
+  390  x
+  391  cd Downloads/vcprompt-2f062bc153d6/
+  392  make
+  393  sudo mv vcprompt /bin
+  394  cd
+  395  vim .bashrc 
+  396  bash
+  397  x
+  398  bash
+  399  x
+  400  vim /home/kingdragon/.bash
+  401  vim /home/kingdragon/.bashrc 
+  402  bash
+  403  x
+  404  bash
+  405  x
+  406  bahs
+  407  bash
+  408  x
+  409  bash
+  410  x
+  411  bash
+  412  x
+  413  vim .bashrc 
+  414  cp .bashrc bashrc.old
+  415  vim .bashrc 
+  416  x
+  417  bash
+  418  chmod +x netbeans-8.2-javase-linux.sh 
+  419  sudo ./netbeans-8.2-javase-linux.sh 
+  420  sudo mkdir /opt/java
+  421  mv Downloads/jdk1.8.0_181/ /opt/java/
+  422  sudo mv Downloads/jdk1.8.0_181/ /opt/java/
+  423  sudo update-alternatives --install "/usr/bin/java" "java" "/opt/java/jdk1.7.0_25/bin/java" 1
+  424  sudo update-alternatives --install "/usr/bin/java" "java" "/opt/java/jdk1.8.0_181/bin/java" 1
+  425  sudo update-alternatives --set java /opt/java/jdk1.7.0_25/bin/java
+  426  sudo update-alternatives --set java /opt/java/jdk1.8.0_181/bin/java
+  427  java -version
+  428  subl java.install
+  429  gcc -c *.c
+  430  cd ..
+  431  cd build/
+  432  make
+  433  make install
+  434  cat Makefile 
+  435  cd ..
+  436  find . -type f -name config.h
+  437  find . -type f -name "config.h"
+  438  find . -type f -name "config.h" -R
+  439  find . -type f -name "config.h" -r
+  440  find ./* -type f -name "config.h"
+  441  cd betterlockscreen/
+  442  ll
+  443  cat lock_cmd 
+  444  lock --update /home/kingdragon/Pictures/bleach/wallpapers/10.jpg
+  445  ./lock.sh -u /home/kingdragon/Pictures/bleach/440448.jpg
+  446  ./lock.sh --wall
+  447  sudo systemctl disable mdm
+  448  sudo systemctl disable lightdm.service 
+  449  sudo systemctl disable hddtemp.service 
+  450  sudo systemctl stop lightdm.service 
+  451  x
+  452  top
+  453  free -h
+  454  top
+  455  free -h
+  456  x
+  457  sudo apt remove libxcb-ewmh2 
+  458  rofi
+  459  sudo apt install rofi
+  460  cd Downloads/
+  461  ls
+  462  cd LinuxMint182i3-master/
+  463  cd installation/
+  464  ls
+  465  sudo apt-get install rofi
+  466  x
+  467  rofi -rnow
+  468  rofi
+  469  rofi -show run
+  470  /configure --prefix=/usr/local
+  471  localectl 
+  472  sudo apt install libxkbcommon
+  473  sudo apt install libxkbcommon-x11-0 
+  474  sudo apt install libxkbcommon0
+  475  x
+  476  top
+  477  kill -9 1589
+  478  top
+  479  kill -9 2299
+  480  x
+  481  subl .xinitrc 
+  482  sudo apt install i3-wm
+  483  sudo apt install i3-wm-dbg 
+  484  x
+  485  sudo systemctl enable hddtemp.service 
+  486  sudo systemctl start hddtemp.service 
+  487  startx
+  488  ./luffy 
+  489  x
+  490  startx i3
+  491  startx cn
+  492  startx
+  493  star
+  494  startx
+  495  which  rm
+  496  sudo mv /bin/rm /bin/srm
+  497  ll
+  498  rm xinitrc 
+  499  sudo vim /etc/bash.bashrc 
+  500  vim .bashrc 
+  501  sudo vim /etc/bash.bashrc 
+  502  x
+  503  ls
+  504  ./luffy rmd xinitrc 
+  505  ./luffy rmf xinitrc 
+  506  ll
+  507  ls
+  508  sudo mv luffy /bin/
+  509  zsh
+  510  x
+  511  cd Downloads/
+  512  x
+  513  history 
+  514  history >> hist2018-10-09

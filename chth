@@ -1,0 +1,13 @@
+#!/bin/zsh
+
+out=`ls .zshrca 2> /dev/null | wc -l`
+
+if [ "$out" -eq "1" ]
+then 
+	mv .zshrc .zshrcr
+	mv .zshrca .zshrc
+else
+	mv .zshrc .zshrca
+	mv .zshrcr .zshrc
+fi
+source ~/.zshrc
