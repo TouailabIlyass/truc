@@ -1,0 +1,29 @@
+Ae -> idnature
+
+besion -> chefprojet et sce et type
+
+cad -> sig et signcde
+
+select ds.id,ds.Titre,Achats.Acheteur,Entite.entite,Type.type,Besion.DA,Besion.DateAffec,Entite.entite,Besion.Estimation,chefProjet.chef,Besion.Objet,RFI.NumRFI,RFI.Date, RFI.Echeange,CGAO.NumPV,CGAO.Date,AO.NumAO,AO.DateAO,AO.Echeange,AO.Relance,COF.DateTech,COF.DateAvis,COF.DateCom,Nature.nature,AE.Annee,AE.MontantAE,AE.MontantEngage ,AE.NumAE,AE.DateAE,AE.DateArrive,CAD.PVNum,CAD.DateCAD,Sig.Nom,CAD.Adjudicataire,CAD.Origine,CAD.NumCDE,CAD.DateCDE,Sig.Nom,CAD.Delai,CAD.Montant ,CAD.Situation,CAD.Observation FROM ds,Achats,Besion,RFI,CGAO,AO,COF,AE,CAD,chefProjet,Entite,Type,sig,Nature  WHERE ds.NumAcheteur=Achats.id && Besion.NumDossier=ds.id && RFI.NumDossier=ds.id && CGAO.NumDossier=ds.id && AO.NumDossier=ds.id && COF.NumDossier=ds.id && AE.NumDossier=ds.id && CAD.NumDossier=ds.id && Besion.ChefProjet=chefProjet.id && Achats.Entite=Entite.id && Besion.Type=Type.id && Besion.SCE=Entite.id && AE.idNature=Nature.id && CAD.Signataire=Sig.id && CAD.SignataireCDE=Sig.id
+
+
+
+
+select ds.id,ds.Titre,Achats.Acheteur,Entite.entite,Type.type,Besion.DA,Besion.DateAffec,EntiteSCE.entite,Besion.Estimation,chefProjet.chef,Besion.Objet,RFI.NumRFI,RFI.Date, RFI.Echeange,CGAO.NumPV,CGAO.Date,AO.NumAO,AO.DateAO,AO.Echeange,AO.Relance,COF.DateTech,COF.DateAvis,COF.DateCom,Nature.nature,AE.Annee,AE.MontantAE,AE.MontantEngage ,AE.NumAE,AE.DateAE,AE.DateArrive,CAD.PVNum,CAD.DateCAD,Sig.Nom,CAD.Adjudicataire,CAD.Origine,CAD.NumCDE,CAD.DateCDE,Sig.Nom,CAD.Delai,CAD.Montant ,CAD.Situation,CAD.Observation FROM ds,Achats,Besion,RFI,CGAO,AO,COF,AE,CAD,chefProjet,Entite,Type,Sig,Nature,EntiteSCE WHERE ds.NumAcheteur=Achats.id && Besion.NumDossier=ds.id && RFI.NumDossier=ds.id && CGAO.NumDossier=ds.id && AO.NumDossier=ds.id && COF.NumDossier=ds.id && AE.NumDossier=ds.id && CAD.NumDossier=ds.id && Besion.ChefProjet=chefProjet.id && Achats.Entite=Entite.id && Besion.Type=Type.id && Besion.SCE=EntiteSCE.id && AE.idNature=Nature.id && CAD.Signataire=Sig.id && CAD.SignataireCDE=Sig.id
+
+
+
+
+
+select ds.id,ds.Titre,Achats.Acheteur,Achats.Entite,Besion.Type,Besion.DA,Besion.DateAffec,Besion.Type,Besion.Estimation,chefProjet.chef,Besion.Objet,RFI.NumRFI,RFI.Date, RFI.Echeange,CGAO.NumPV,CGAO.Date,AO.NumAO,AO.DateAO,AO.Echeange,AO.Relance,COF.DateTech,COF.DateAvis,COF.DateCom,AE.Nature,AE.Annee,AE.MontantAE,AE.MontantEngage ,AE.NumAE,AE.DateAE,AE.DateArrive,CAD.PVNum,CAD.DateCAD,CAD.Adjudicataire,CAD.Origine,CAD.NumCDE,CAD.DateCDE,CAD.Delai,CAD.Montant ,CAD.Situation,CAD.Observation FROM ds,Achats,Besion,RFI,CGAO,AO,COF,AE,CAD,chefProjet WHERE ds.NumAcheteur=Achats.id && Besion.NumDossier=ds.id && RFI.NumDossier=ds.id && CGAO.NumDossier=ds.id && AO.NumDossier=ds.id && COF.NumDossier=ds.id && AE.NumDossier=ds.id && CAD.NumDossier=ds.id && Besion.ChefProjet=chefProjet.id
+
+
+////
+
+select ds.id,ds.Titre,Achats.Acheteur,Entite.entite,Type.type,Besion.DA,Besion.DateAffec,EntiteSCE.entite,Besion.Estimation,ChefProjet.chef,Besion.Objet,RFI.NumRFI,RFI.Date, RFI.Echeance,CGAO.NumPV,CGAO.Date,NumAO.NumAO,NumAO.DateAO,NumAO.Echeance,NumAO.Relance,COF.DateTech,COF.DateAvis,COF.DateCom,Nature.nature,AE.Annee,AE.MantantAE,AE.MantantEngage ,AE.NumAE,AE.DateAE,AE.DateArrive  FROM ds,Achats,Besion,RFI,CGAO,NumAO,COF,AE,ChefProjet,Entite,Type,Nature,EntiteSCE WHERE ds.Numcheteur=Achats.id && Besion.NumDossier=ds.id && RFI.NumDossier=ds.id && CGAO.NumDossier=ds.id && NumAO.NumDossier=ds.id && COF.NumDossier=ds.id && AE.NumDossier=ds.id  && Besion.ChefProjet=ChefProjet.id && Achats.Entite=Entite.id && Besion.Type=Type.id && Besion.SCE=EntiteSCE.id && AE.idNature=Nature.id
+
+
+
+
+///ok
+select ds.id,ds.Titre,Achats.Acheteur,Entite.entite,Type.type,Besion.DA,Besion.DateAffec,EntiteSCE.entite,Besion.Estimation,ChefProjet.chef,Besion.Objet,RFI.NumRFI,RFI.Date, RFI.Echeance,CGAO.NumPV,CGAO.Date,NumAO.NumAO,NumAO.DateAO,NumAO.Echeance,NumAO.Relance,COF.DateTech,COF.DateAvis,COF.DateCom,Nature.nature,AE.Annee,AE.MantantAE,AE.MantantEngage ,AE.NumAE,AE.DateAE,AE.DateArrive,CAD.PVNum,CAD.DateCAD,Sig.Nom,CAD.Adjucataire,CAD.Origine,CAD.NumCDE,CAD.DateCDE,Sig.Nom,CAD.Delai,CAD.Montant ,CAD.Situation,CAD.Observation FROM ds,Achats,Besion,RFI,CGAO,NumAO,COF,AE,CAD,ChefProjet,Entite,Type,Sig,Nature,EntiteSCE WHERE ds.Numcheteur=Achats.id && Besion.NumDossier=ds.id && RFI.NumDossier=ds.id && CGAO.NumDossier=ds.id && NumAO.NumDossier=ds.id && COF.NumDossier=ds.id && AE.NumDossier=ds.id && CAD.NumDossier=ds.id && Besion.ChefProjet=ChefProjet.id && Achats.Entite=Entite.id && Besion.Type=Type.id && Besion.SCE=EntiteSCE.id && AE.idNature=Nature.id && CAD.Signataire=Sig.id

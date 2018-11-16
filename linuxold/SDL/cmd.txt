@@ -1,0 +1,1 @@
+gcc `sdl-config --cflags --libs` -o exe image.c -lSDL -lSDL_image

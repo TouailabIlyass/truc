@@ -1,0 +1,1000 @@
+  408  cd /opt/lamp
+  409  cd /opt/lampp
+  410  .xamp start
+  411  .xampp start
+  412  ./xampp start
+  413  xampp start
+  414  x
+  415  xampp start
+  416  x
+  417  xampp start
+  418  x
+  419  xampp start
+  420  x
+  421  xampp start
+  422  x
+  423  xampp start
+  424  x
+  425  xampp stop
+  426  x
+  427  xampp start
+  428  x
+  429  xampp stop
+  430  x
+  431  xampp start
+  432  x
+  433  xampp start
+  434  x
+  435  xampp stop
+  436  x
+  437  ll
+  438  rm -r AppStage/
+  439  rm -r AppStage/*
+  440  cd AppStage/
+  441  ll
+  442  rm -r 8
+  443  rm -r *
+  444  cd ..
+  445  rm -rf  AppStage/
+  446  cd /opt/
+  447  ll
+  448  cd lampp/
+  449  ll
+  450  chown :kingdragon xampp 
+  451  x
+  452  chown :root xampp 
+  453  cd /opt/
+  454  cd lampp/
+  455  chmod 775 xampp 
+  456  x
+  457  cd /opt/
+  458  cd lampp/
+  459  chmod 777 xampp 
+  460  x
+  461  cd /opt/lampp/
+  462  ll
+  463  chmod 700 xampp 
+  464  chown root: xampp 
+  465  xampp start
+  466  x
+  467  xampp start
+  468  x
+  469  xampp start
+  470  x
+  471  xampp stop
+  472  x
+  473  xampp start
+  474  x
+  475  xampp start
+  476  x
+  477  xampp start
+  478  xampp stop
+  479  xampp start
+  480  xampp stop
+  481  x
+  482  ifconfig 
+  483  vi /etc/dhcp/dhcpd>
+  484  vi /etc/dhcp/dhcpd
+  485  x
+  486  xampp start
+  487  x
+  488  xampp stop
+  489  x
+  490  xampp stop
+  491  x
+  492  ifconfig virbr0-nic down
+  493  ifconfig virbr0 down
+  494  x
+  495  xampp startx
+  496  x
+  497  xampp start
+  498  x
+  499  su
+  500  x
+  501  xampp stop
+  502  x
+  503  xampp start
+  504  x
+  505  xampp stop
+  506  x
+  507  xampp start
+  508  x
+  509  xampp start
+  510  x
+  511  xampp stop
+  512  x
+  513  xampp start
+  514  x
+  515  xampp start
+  516  x
+  517  vim test1.php 
+  518  xampp stop
+  519  x
+  520  xampp start
+  521  history 
+  522  xampp stop
+  523  history 
+  524  x
+  525  xampp start
+  526  history 
+  527  x
+  528  vim test1.php 
+  529  xampp start
+  530  x
+  531  xampp start
+  532  history 
+  533  x
+  534  xampp start
+  535  x
+  536  xampp stop
+  537  reboot
+  538  gparted
+  539  x
+  540  adduser test
+  541  passwd test
+  542  x
+  543  fdisk -l
+  544  x
+  545  cd /boot
+  546  ls
+  547  cd ..
+  548  mkdir /boot/iso
+  549  gedit /etc/grub.d/40_custom
+  550  update-grub
+  551  x
+  552  gedit /etc/grub.d/40_custom
+  553  update-grub
+  554  x
+  555  gedit /etc/grub.d/40_custom
+  556  x
+  557  gedit /etc/environment 
+  558  x
+  559  gedit /etc/environment 
+  560  x
+  561  xampp start
+  562  x
+  563  apt-get install libmysqlclient15-dev
+  564  apt-get install libmysqlclient-dev 
+  565  apt-get install libmysqlclient20 
+  566  xampp start
+  567  x
+  568  xampp start
+  569  x
+  570  gparted
+  571  xampp start
+  572  x
+  573  cd /opt/lampp/
+  574  ll
+  575  cd htdocs/
+  576  ll
+  577  cd mytest/
+  578  ll
+  579  touch test2.php
+  580  vim test2.php 
+  581  apt-get update 
+  582  apt-get upgrade 
+  583  apt-get dist-upgrade
+  584  apt-get update 
+  585  apt-get upgrade 
+  586  apt-get dist-upgrade
+  587  screenfetch 
+  588  x
+  589  cd /opt/lampp/htdocs/mytest/
+  590  vim test2.php 
+  591  xampp start
+  592  vim test2.php 
+  593  x
+  594  sync; echo 1 > /proc/sys/vm/drop_caches
+  595  sync; echo 2 > /proc/sys/vm/drop_caches
+  596  sync; echo 3 > /proc/sys/vm/drop_caches
+  597  sync; echo 1 > /proc/sys/vm/drop_caches
+  598  sync; echo 0 > /proc/sys/vm/drop_caches
+  599  x
+  600  init 6
+  601  apt-get update 
+  602  apt-get upgrade 
+  603  xampp start
+  604  x
+  605  vim obj1.php 
+  606  xampp top
+  607  xampp stop
+  608  x
+  609  vi obj1.php 
+  610  vim obj1.php 
+  611  ll
+  612  vim test2
+  613  vim test2.php 
+  614  x
+  615  xampp start
+  616  xampp stop
+  617  x
+  618  history 
+  619  xampp start
+  620  x
+  621  xampp start
+  622  x
+  623  xampp start
+  624  z
+  625  x
+  626  xampp start
+  627  xampp stop
+  628  x
+  629  gedit /etc/grub.d/40_custom
+  630  x
+  631  history 
+  632  xampp start
+  633  x
+  634  vim obj1.php 
+  635  vim test1.php 
+  636  vim test2.php 
+  637  vim scriptphp.php 
+  638  vim test1.php 
+  639  zbi
+  640  fuck you zobi
+  641  fuck you
+  642  fuck
+  643  x
+  644  find / -type d -name "andriod"
+  645  xampp start
+  646  x
+  647  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+  648  apt-get remove youtube-dl 
+  649  apt-get install youtube-dl 
+  650  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+  651  xampp start
+  652  x
+  653  touch test3.php
+  654  ll
+  655  vim test3.php
+  656  x
+  657  xampp start
+  658  cd /opt/lampp/htdocs/mytest/
+  659  ll
+  660  xampp stop
+  661  x
+  662  init 0
+  663  shutdown -t 0
+  664  xampp start
+  665  cd /opt/lampp/htdocs/mytest/
+  666  ll
+  667  vim test3.php 
+  668  vim test1.php 
+  669  vim test2.php 
+  670  touch obj2.php
+  671  vim obj2.php 
+  672  xampp stop
+  673  x
+  674  xampp start
+  675  cd /opt/lampp/htdocs/mytest/
+  676  vim test1.php 
+  677  xampp stop
+  678  x
+  679  cd /opt/lampp/htdocs/mytest/
+  680  cd ..
+  681  ll
+  682  ./uninstall 
+  683  cd
+  684  pwd
+  685  cd /home/kingdragon/Downloads/
+  686  ll
+  687  chmod +x xampp-linux-x64-7.1.9-0-installer.run 
+  688  ./xampp-linux-x64-7.1.9-0-installer.run 
+  689  cd /opt/lampp/htdocs/mytest/
+  690  vim obj2.php 
+  691  xampp stop
+  692  x
+  693  xampp start
+  694  cd /opt/lampp/htdocs/mytest/
+  695  touch obj3.php
+  696  vim obj3.php 
+  697  vim obj2.php 
+  698  vim obj1.php 
+  699  x
+  700  cat TNCAPCFFC90
+  701  ll
+  702  cat TNCAPCFFC90
+  703  cat Auto\ TNCAPCFFC90
+  704  shutdown -t 0
+  705  shutdown now
+  706  shutdown -t 0
+  707  init 0
+  708  xampp start
+  709  cd /opt/lampp/htdocs/mytest/
+  710  ll
+  711  touch ex1.php
+  712  mkdir ex1
+  713  mv ex1.php ex1/
+  714  cd ex1/
+  715  ll
+  716  touch ht.html
+  717  vime
+  718  vim ex1.php 
+  719  mv ht.html index.php
+  720  vim ex1.php 
+  721  xampp stop
+  722  x
+  723  xampp start
+  724  xampp stop
+  725  x
+  726  xampp start
+  727  x
+  728  xampp stop
+  729  x
+  730  vim Personnage.php 
+  731  xampp start
+  732  xampp stop
+  733  x
+  734  vim Personnage.php 
+  735  xampp start
+  736  xampp stop
+  737  x
+  738  xampp start
+  739  x
+  740  ll
+  741  chmod 777 test.txt 
+  742  xampp stop
+  743  x
+  744  xampp start
+  745  x
+  746  vim form2.php 
+  747  xampp stop
+  748  x
+  749  ll
+  750  cd
+  751  ll
+  752  cd Desktop/
+  753  ll
+  754  mkdir cpp
+  755  cd cpp/
+  756  youtube-dl -F "https://www.youtube.com/playlist?list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq"
+  757  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq"
+  758  x
+  759  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx"
+  760  x
+  761  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLHFGzOr0F8DKXHU3JWSrrbDzNbyA5ClPj"
+  762  x
+  763  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-"
+  764  x
+  765  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL55RiY5tL51oloSGk5XdO2MGjPqc0BxGV"
+  766  x
+  767  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLeyMYhyx349ZZLdyNf1I7RODb83UwkJYo"
+  768  x
+  769  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLGDO4Z63KR2ZU6ERsUTF0lrKb9rVNBoPo"
+  770  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLGDO4Z63KR2ZU6ERsUTF0lrKb9rVNBoPo"
+  771  cd ..
+  772  cd Almas_Bimagambetov_javafxGame/
+  773  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL4h6ypqTi3RTIoPa_Qz3haEo3OXJQqOwc"
+  774  youtube-dl -f 22 "https://www.youtube.com/watch?v=hbQqnTnqaKk&t=82s"
+  775  x
+  776  youtube-dl -f 22 "https://www.youtube.com/watch?v=qNSNLTY_tTI&list=PL7mt2FDjAkPdl3-5IZl7p8i1CYrzbMh_n"
+  777  cd ../laravel5.3/
+  778  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL3ZhWMazGi9IYymniZgqwnYuPFDvaEHJb"
+  779  wget https://archive-4.kali.org/kali-images/kali-2017.2/kali-linux-2017.2-amd64.iso
+  780  ll
+  781  rm kali-linux-2017.2-amd64.iso
+  782  ll
+  783  rm kali-linux-2017.2-amd64.iso.1 
+  784  ll
+  785  x
+  786  xampp start
+  787  x
+  788  vlc 03.تعلم\ PHP\ Data\ Object\ الدرس\ الثالث\ -\ كيفيه\ الأتصال\ بقاعده\ البيانات.mp4 
+  789  vlc-wrapper 
+  790  man vlc-wrapper 
+  791  x
+  792  touch Cnx_bd
+  793  mv Cnx_bd Cnx_bd.php
+  794  vim Cnx_bd.php
+  795  x
+  796  vim test.php 
+  797  vim test2.php 
+  798  vim test.php 
+  799  vim test2.php 
+  800  x
+  801  xampp start
+  802  x
+  803  vim Cnx_bd.php 
+  804  vim test3.php 
+  805  x
+  806  xampp stop
+  807  x
+  808  xampp start
+  809  x
+  810  vim test3.php 
+  811  xampp stop
+  812  x
+  813  xampp start
+  814  setxkbmap fr
+  815  setxkbmap us
+  816  setxkbmap fr
+  817  setxkbmap us
+  818  cd /opt/lampp/htdocs/
+  819  ll
+  820  cd mytest/bd/
+  821  ll
+  822  reset
+  823  cd ../testapp/
+  824  ll
+  825  touch CnxDB.php
+  826  vim CnxDB.php 
+  827  touch verif.php
+  828  vim verif.php 
+  829  vim Verif.php 
+  830  x
+  831  touch index.php
+  832  vim index.php 
+  833  xampp stop
+  834  x
+  835  vim User.php 
+  836  touch home.php
+  837  vim home.php 
+  838  x
+  839  xampp start
+  840  cd /opt/lampp/htdocs/
+  841  cd mytest/testapp/
+  842  ll
+  843  x
+  844  xampp start
+  845  x
+  846  xampp stop
+  847  x
+  848  init 0
+  849  shutdown now
+  850  xampp start
+  851  cd /opt/lampp/htdocs/mytest/testapp/
+  852  ll
+  853  rm .verif.php.swo 
+  854  ll
+  855  xampp stop
+  856  x
+  857  xampp start
+  858  xampp stop
+  859  x
+  860  xampp start
+  861  xampp stop
+  862  x
+  863  shutdown now
+  864  /usr/lib/postgresql/10/bin/pg_ctl -D /var/lib/postgresql/10/main -l logfile start
+  865  pg
+  866  ll /usr/lib/postgresql/10/bin/pg_ctl -D /var/lib/postgresql/10/main -l logfile start
+  867  chmod 777 /usr/lib/postgresql/10/bin/pg_ctl -D /var/lib/postgresql/10/main -l logfile start
+  868  chmod 777 /usr/lib/postgresql/10/bin/pg_ctl
+  869  ll /usr/lib/postgresql/10/bin/pg_ctl -D /var/lib/postgresql/10/main -l logfile start
+  870  chmod 777 /usr/lib/postgresql/10/bin/pg_ctl*
+  871  ll /usr/lib/postgresql/10/bin/pg_ctl -D /var/lib/postgresql/10/main -l logfile start
+  872  chmod :root /usr/lib/postgresql/10/bin/pg_ctl*
+  873  chown :root /usr/lib/postgresql/10/bin/pg_ctl*
+  874  ll /usr/lib/postgresql/10/bin/pg_ctl -D /var/lib/postgresql/10/main -l logfile start
+  875  /usr/lib/postgresql/10/bin/pg_ctl -D /var/lib/postgresql/10/main -l logfile start
+  876  x
+  877  ll
+  878  chmod -R 777 *
+  879  ll
+  880  chowm :kingdragon 8
+  881  chowm :kingdragon *
+  882  chwom :kingdragon *
+  883  chown :kingdragon *
+  884  ll
+  885  ./postmaster.pid 
+  886  x
+  887  ./postgresql-10.0-1-linux-x64.run 
+  888  pg
+  889  ./pgAdmin4 
+  890  x
+  891  cd /opt/PostgreSQL/10/pgAdmin\ 4/
+  892  ll
+  893  cd bin/
+  894  ll
+  895  ./pgAdmin4 
+  896  x
+  897  cd
+  898  vim /etc/bash.bashrc 
+  899  x
+  900  ./pgAdmin4 
+  901  xampp start
+  902  xampp stop
+  903  x
+  904  xampp start
+  905  passwd kingdragon 
+  906  cd /opt/lampp/htdocs/mytest/testapp/
+  907  ll
+  908  xampp stop
+  909  x
+  910  xampp start
+  911  cd ../bd/
+  912  v test3.php 
+  913  v test2.php 
+  914  xampp stop
+  915  x
+  916  xampp start
+  917  x
+  918  v testfunc.php 
+  919  wireshark &
+  920  xampp stop
+  921  x
+  922  xampp start
+  923  x
+  924  xampp start
+  925  x
+  926  xampp stop
+  927  x
+  928  xampp start
+  929  x
+  930  subl .
+  931  x
+  932  ll
+  933  mv composer.phar /opt/lampp/htdocs/
+  934  x
+  935  composer create-project --prefer-dist laravel/laravel projectName5.4
+  936  composer create-project --prefer-dist laravel/laravel test-app
+  937  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  938  php -r "if (hash_file('SHA384', 'composer-setup.php') === '544e09ee996cdf60ece3804abc52599c22b1f40f4323403c44d44fdfdd586475ca9813a858088ffbc1f233e9b180f061') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+  939  php composer-setup.php
+  940  ll
+  941  reset
+  942  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  943  curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/opt. --filename=composer
+  944  cd ../
+  945  curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/opt/lampp/htdocs --filename=composer
+  946  php
+  947  apt-get install php7.0-cli git
+  948  curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/opt/lampp/htdocs --filename=composer
+  949  composer create-project --prefer-dist laravel/laravel laravel5.4
+  950  composer
+  951  cd htdocs/
+  952  ll
+  953  ./composer 
+  954  ./composer create-project --prefer-dist laravel/laravel laravel5.4
+  955  x
+  956  xampp start
+  957  x
+  958  v test4.php 
+  959  x
+  960  v test3.php 
+  961  v test2.php 
+  962  x
+  963  xampp start
+  964  cd /opt/lampp/htdocs/
+  965  open .
+  966  ll
+  967  cd mytest/
+  968  ll
+  969  cd s5/
+  970  ll
+  971  cd tp2/
+  972  ll
+  973  man ll
+  974  li
+  975  ls
+  976  ls -all
+  977  ll
+  978  clear
+  979  ll
+  980  xampp stop
+  981  t
+  982  xampp start
+  983  x
+  984  xampp stop
+  985  x
+  986  xampp start
+  987  v test2.php 
+  988  pwd
+  989  xampp stop
+  990  x
+  991  xampp start
+  992  x
+  993  xampp stop
+  994  x
+  995  wireshark 
+  996  x
+  997  ll
+  998  chown kingdragon: -R *
+  999  ll
+ 1000  cd ..
+ 1001  ll
+ 1002  chown kingdragon: -R Dropbox/
+ 1003  x
+ 1004  ./uninstall-postgresql 
+ 1005  cd /opt/
+ 1006  ll
+ 1007  rm PostgreSQL/
+ 1008  x
+ 1009  ./postgresql-9.5.9-1-linux-x64.run 
+ 1010  cd /opt/PostgreSQL/
+ 1011  ll
+ 1012  cd 9.5/
+ 1013  ll
+ 1014  cd bin/
+ 1015  ll
+ 1016  ./psql
+ 1017  x
+ 1018  chown :root PostgreSQL/* -R
+ 1019  cd PostgreSQL/9.5/
+ 1020  ll .psql_history
+ 1021  ls -all
+ 1022  touch .psql_history
+ 1023  ll .psql_history
+ 1024  chmod 777 .psql_history 
+ 1025  v .psql_history 
+ 1026  cd /opt/PostgreSQL/
+ 1027  ls -all
+ 1028  cd 9.5/
+ 1029  ls -all
+ 1030  x
+ 1031  ./pg
+ 1032  ./pgadmin3 
+ 1033  ./psql
+ 1034  ./psql.bin 
+ 1035  cd ../..
+ 1036  cd bin/
+ 1037  ll
+ 1038  ./psql
+ 1039  -u postgres psql postgres
+ 1040  ./psql
+ 1041  sudo -u postgres psql postgres
+ 1042  ll
+ 1043  sudo -u postgres ./psql postgres
+ 1044  cd ..
+ 1045  chmod u+x -R PostgreSQL/*
+ 1046  cd PostgreSQL/
+ 1047  cd 9.5/
+ 1048  cd bin/
+ 1049  sudo -u postgres ./psql postgres
+ 1050  ./psql
+ 1051  sudo -u postgres ./psql postgres
+ 1052  ./psql
+ 1053  sudo -u postgres ./psql postgres
+ 1054  ./psql
+ 1055  sudo -u postgres ./psql postgres
+ 1056  ./postgres 
+ 1057  ./psql
+ 1058  ./psql -u postgres
+ 1059  sudo -u ./postgres ./psql ./postgres
+ 1060  sudo -u postgres ./psql root
+ 1061  sudo -u postgres ./psql postgres
+ 1062  ./psql
+ 1063  ./psql -U root
+ 1064  ./psql -U postgres
+ 1065  v /etc/postgres/
+ 1066  cd /etc/postgresql/10/
+ 1067  v /etc/postgresql/10/main/pg_hba.conf 
+ 1068  v /etc/postgresql/9.5/main/pg_hba.conf 
+ 1069  service postgresql restart 
+ 1070  systemctl unmask postgresql
+ 1071  systemctl restart postgresql
+ 1072  service postgresql restart 
+ 1073  cd /opt/PostgreSQL/9.5/bin/
+ 1074  ./psql -U postgres -W
+ 1075  ll
+ 1076  cd ..
+ 1077  ll
+ 1078  .
+ 1079  cd pgAdmin3/
+ 1080  ll
+ 1081  cd bin/
+ 1082  ll
+ 1083  ./psql
+ 1084  find / -name libpq.so.0
+ 1085  find / -name libedit
+ 1086  ll
+ 1087  ./psql.bin 
+ 1088  ./psql
+ 1089  ./pgadmin3 
+ 1090  x
+ 1091  ./pgadmin3 
+ 1092  x
+ 1093  ./pgadmin3 
+ 1094  x
+ 1095  v /root.bashrc
+ 1096  x
+ 1097  v .bashrc 
+ 1098  cd
+ 1099  v .bashrc 
+ 1100  bash.bashrc
+ 1101  v .bashrc 
+ 1102  v /etc/environment 
+ 1103  gedit /etc/environment 
+ 1104  x
+ 1105  gedit .bashrc 
+ 1106  cd
+ 1107  gedit .bashrc 
+ 1108  v /etc/bash.bashrc 
+ 1109  x
+ 1110  ./psql -U postgres -W
+ 1111  ./psql
+ 1112  ./pgadmin3 
+ 1113  service postgresql restart 
+ 1114  systemctl restart postgresql
+ 1115  pgadmin3 
+ 1116  cd /opt/PostgreSQL/9.5/
+ 1117  ll
+ 1118  cd bin/
+ 1119  ll
+ 1120  ./psql
+ 1121  ./postgres 
+ 1122  systemctl restart postgresql
+ 1123  ./postgres 
+ 1124  systemctl restart postgresql
+ 1125  ./psql -U postgres -W
+ 1126  ll
+ 1127  ./psql
+ 1128  ./postgres 
+ 1129  postgres
+ 1130  ./postgres 
+ 1131  x
+ 1132  psql.bin 
+ 1133  ./psql -U postgres -W
+ 1134  systemctl restart postgresql
+ 1135  ./psql -U postgres -W
+ 1136  ./psql
+ 1137  systemctl unmask postgresql
+ 1138  systemctl restart postgresql
+ 1139  v /etc/postgresql/9.5/main/pg_hba.conf 
+ 1140  v /etc/postgresql/10/main/pg_hba.conf 
+ 1141  systemctl restart postgresql
+ 1142  ./psql -U postgres -W
+ 1143  systemctl restart postgresql
+ 1144  ./psql -U postgres -W
+ 1145  systemctl restart postgresql
+ 1146  ./psql -U postgres -W
+ 1147  x
+ 1148  ./postgres 
+ 1149  su - kingdragon 
+ 1150  ./psql -U postgres
+ 1151  systemctl restart postgresql
+ 1152  ./psql -U postgres -W
+ 1153  v /etc/postgresql/9.5/main/pg_hba.conf 
+ 1154  systemctl restart postgresql
+ 1155  ./psql -U postgres -W
+ 1156  ./postgres 
+ 1157  sudo -u postgres ./psql postgres
+ 1158  x
+ 1159  v /etc/postgresql/9.5/main/pg_hba.conf 
+ 1160  sudo -u postgres ./psql postgres
+ 1161  cd /opt/PostgreSQL/9.5/bin/
+ 1162  ll
+ 1163  sudo -u postgres ./psql postgres
+ 1164  x
+ 1165  cp grub.cfg grub.cfg.old
+ 1166  x
+ 1167  vi grub.cfg 
+ 1168  v grub.cfg
+ 1169  xampp start
+ 1170  x
+ 1171  xampp stop
+ 1172  x
+ 1173  xampp start
+ 1174  x
+ 1175  xampp start
+ 1176  x
+ 1177  subl .
+ 1178  x
+ 1179  wireshark 
+ 1180  x
+ 1181  grub-install /dev/sda8
+ 1182  x
+ 1183  cd
+ 1184  ll
+ 1185  x
+ 1186  cd /sbin/
+ 1187  ./init
+ 1188  ./init splash
+ 1189  ./init -splash
+ 1190  init
+ 1191  man init
+ 1192  xampp start
+ 1193  xampp stop
+ 1194  x
+ 1195  xampp start
+ 1196  xampp stop
+ 1197  x
+ 1198  xampp start
+ 1199  x
+ 1200  ls -a
+ 1201  x
+ 1202  ll fichier/
+ 1203  chmod 777 -R fichier/*
+ 1204  ll
+ 1205  chwon kingdragon: fichier/
+ 1206  chown kingdragon: -R fichier/
+ 1207  x
+ 1208  chmod Class.php 
+ 1209  ll Class.php 
+ 1210  chmod 777 Class.php 
+ 1211  x
+ 1212  touch xx
+ 1213  ll xx
+ 1214  cd ..
+ 1215  ll fichier/
+ 1216  x
+ 1217  chmod 777 emp.php 
+ 1218  x
+ 1219  chmod 777 user.php 
+ 1220  x
+ 1221  ll fichier/
+ 1222  ll
+ 1223  x
+ 1224  ll .
+ 1225  ll htdocs/
+ 1226  ll
+ 1227  chmod 777 -R htdocs/*
+ 1228  c
+ 1229  x
+ 1230  xampp start
+ 1231  x
+ 1232  ll
+ 1233  chown kingdragon: -R version2/*
+ 1234  cd fichier/
+ 1235  ll
+ 1236  cd ..
+ 1237  chmod 777 -R version2/*
+ 1238  x
+ 1239  ll
+ 1240  cd htdocs/
+ 1241  ll
+ 1242  cd mytest/
+ 1243  ll
+ 1244  x
+ 1245  ll
+ 1246  x
+ 1247  ll
+ 1248  chmod 777 -R htdocs/*
+ 1249  x
+ 1250  grub-install /dev/sda5
+ 1251  grub-install /dev/sda8
+ 1252  fdisk -l
+ 1253  mount /dev/sda8 /mnt
+ 1254  grub-install --root-directory=/mnt /dev/sda
+ 1255  update-grub
+ 1256  x
+ 1257  xampp start
+ 1258  x
+ 1259  ll
+ 1260  chmod 777 -R htdocs/*
+ 1261  xampp stop
+ 1262  x
+ 1263  xampp start
+ 1264  cd /opt/
+ 1265  ll
+ 1266  cd lampp/
+ 1267  ll
+ 1268  chmod 777 -R htdocs/*
+ 1269  x
+ 1270  xampp start
+ 1271  x
+ 1272  xampp start
+ 1273  x
+ 1274  chmod 777 -R htdocs/*
+ 1275  x
+ 1276  xampp stop
+ 1277  x
+ 1278  chmod 777 -R htdocs/*
+ 1279  xampp start
+ 1280  ll
+ 1281  cd ..
+ 1282  chmod 777 -R lampp/*
+ 1283  ll
+ 1284  chmod 777 -R lampp/*
+ 1285  ll
+ 1286  cd lampp/
+ 1287  ll
+ 1288  x
+ 1289  ll
+ 1290  xampp stop
+ 1291  xampp start
+ 1292  ll
+ 1293  cd lampp/
+ 1294  ll
+ 1295  cd ..
+ 1296  chmod 755 -R lampp/*
+ 1297  xampp stop
+ 1298  xampp start
+ 1299  cd lampp/
+ 1300  ll
+ 1301  chmod 777 -R htdocs/*
+ 1302  x
+ 1303  xampp start
+ 1304  x
+ 1305  xampp start
+ 1306  x
+ 1307  xampp start
+ 1308  x
+ 1309  xampp start
+ 1310  x
+ 1311  wireshark 
+ 1312  x
+ 1313  wireshark 
+ 1314  xampp start
+ 1315  x
+ 1316  xampp start
+ 1317  x
+ 1318  ll
+ 1319  chmod 777 -R htdocs/*
+ 1320  x
+ 1321  xampp start
+ 1322  x
+ 1323  chmod 777 -R htdocs/*
+ 1324  x
+ 1325  xampp start
+ 1326  chmod 777 -R htdocs/*
+ 1327  x
+ 1328  ls cataloge/
+ 1329  ls cataloge/ > x
+ 1330  ls -l
+ 1331  man ls
+ 1332  x
+ 1333  xampp start
+ 1334  x
+ 1335  passwd kingdragon
+ 1336  x
+ 1337  passwd kingdragon
+ 1338  x
+ 1339  init 6
+ 1340  xampp start
+ 1341  chmod 777 -R /opt/lampp/htdocs/*
+ 1342  x
+ 1343  chmod 777 -R /opt/lampp/htdocs/*
+ 1344  ll
+ 1345  xampp start
+ 1346  x
+ 1347  xampp stop
+ 1348  x
+ 1349  hosts
+ 1350  cat hosts
+ 1351  cat /etc/hosts
+ 1352  x
+ 1353  v /etc/hostname 
+ 1354  apt update 
+ 1355  x
+ 1356  xampp start
+ 1357  chmod 777 -R /opt/lampp/htdocs/*
+ 1358  x
+ 1359  xampp start
+ 1360  chmod 777 -R /opt/lampp/htdocs/*
+ 1361  x
+ 1362  wireshark 
+ 1363  ifconfig 
+ 1364  x
+ 1365  pwd
+ 1366  x
+ 1367  init 0
+ 1368  apt update 
+ 1369  apt dist-upgrade 
+ 1370  x
+ 1371  wireshark 
+ 1372  x
+ 1373  wires
+ 1374  wireshark 
+ 1375  x
+ 1376  xampp start
+ 1377  x
+ 1378  wireshark 
+ 1379  x
+ 1380  wireshark 
+ 1381  xampp start
+ 1382  x
+ 1383  xampp start
+ 1384  x
+ 1385  xampp start
+ 1386  x
+ 1387  xampp start
+ 1388  x
+ 1389  xampp start
+ 1390  xampp stop
+ 1391  xampp start
+ 1392  x
+ 1393  xampp start
+ 1394  x
+ 1395  xampp start
+ 1396  x
+ 1397  xampp stop
+ 1398  x
+ 1399  reboot
+ 1400  mkdir /opt/jython
+ 1401  java -jar jython-installer-2.7.0.jar 
+ 1402  x
+ 1403  gedit ~/.bashrc 
+ 1404  x
+ 1405  gedit ~/.bashrc 
+ 1406  exit
+ 1407  history > cmd_hist_root.txt

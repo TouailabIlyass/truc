@@ -1,0 +1,3065 @@
+    1  su
+    2  cd Desktop/
+    3  ls
+    4  gcc -o exe test.c 
+    5  ./exe
+    6  exit
+    7  su 
+    8  java -version
+    9  javac
+   10  exit
+   11  javac
+   12  su root
+   13  sudo apt-get update 
+   14  javac
+   15  java
+   16  su 
+   17  exit
+   18  sudo apt-get install youtube-dl 
+   19  ln -s root /
+   20  ln -s / root
+   21  sudo chmod u+x netbeans-8.2-javase-linux.sh 
+   22  ./netbeans-8.2-javase-linux.sh 
+   23  sudo apt-get install vlc
+   24  sudo apt-get install gedit
+   25  ls *.lnk
+   26  rm *.lnk
+   27  ls *.lnk
+   28  cd Desktop/
+   29  ls -l System/
+   30  ls -l 
+   31  chown root System/
+   32  sudo chown root System/
+   33  cd Desktop/
+   34  sudo chown root System/
+   35  ls -l 
+   36  sudo chmod go=0 System/
+   37  sudo chmod go-rx System/
+   38  ls -l 
+   39  sudo chmod g+r System/
+   40  sudo chmod g+wx System/
+   41  sudo apt-get install filezilla
+   42  ifconfig 
+   43  sudo apt-get install terminatorx
+   44  terminatorX 
+   45  terminatorx
+   46  sudo apt-get remove terminatorx 
+   47  terminatorX 
+   48  sudo apt-get install terminalX
+   49  su
+   50  ifconfig 
+   51  youtube-dl https://youtu.be/tZoSdhXMZZY?list=PLped9VG7STA_lp6LNld6JgDybvPECOiPU
+   52  sudo apt-get moo
+   53  sudo apt-get install gparted
+   54  gparted
+   55  su
+   56  ls -l
+   57  sudo chmod g-rwx System/
+   58  exit
+   59  setxkbmap fr
+   60  setxkbmap us
+   61  exit
+   62  sudo chmod g+rwx System/
+   63  setxkbmap fr
+   64  setxkbmap us
+   65  exit
+   66  sudo apt-get upgrade 
+   67  sudo apt-get install vokoscreen 
+   68  sudo apt-get install terminix
+   69  ls -l
+   70  ./install.sh 
+   71  sudo ./install.sh 
+   72  ls -l
+   73  sudo ./install.sh 
+   74  gimp
+   75  sudo ./install.sh 
+   76  dub build --build=release
+   77  sudo apt-get install dub
+   78  dub build --build=release
+   79  sudo ./install.sh 
+   80  su
+   81  exit
+   82  dk
+   83  gcc -o exe rr 
+   84  mv rr r.c
+   85  gcc -o exe r.c
+   86  ./exe
+   87  gcc -o exe r.c
+   88  ./exe
+   89  /etc/hosts
+   90  su
+   91  gedit ~/.bashrc 
+   92  sudo apt-get install figlet
+   93  sudo apt-get install sysvbanner 
+   94  gedit ~/.bashrc 
+   95  sudo chmod g-rwx System/
+   96  ls =l
+   97  ls -l
+   98  sudo chown root Dropbox/
+   99  sudo chmod g-rwx Dropbox/
+  100  exit
+  101  gcc -o exe r.c
+  102  ./exe
+  103  dk
+  104  ls
+  105  sudo chmod +rx System/
+  106  sudo chmod og-rx System/
+  107  ls -l
+  108  sudo chmod og-rx Dropbox/
+  109  ls -l
+  110  dk
+  111  sudo chmod g+rx System/
+  112  sudo chmod g-rx System/
+  113  sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+  114  java -version
+  115  sysvbanner ilyase
+  116  banner ilyase
+  117  figlet ilyase
+  118  ps -xf | grep chrome
+  119  banner Monkey D Dragon
+  120  man banner
+  121  gedit .bashrc 
+  122  dk
+  123  sudo chmod +xr System/
+  124  sudo passwd root
+  125  su root
+  126  exit
+  127  ifrename
+  128  exit
+  129  free
+  130  free =h
+  131  free -h
+  132  exit
+  133  cd /
+  134  ls
+  135  cd sys/
+  136  ls
+  137  cd ..
+  138  ls
+  139  cd proc/
+  140  ls
+  141  cd sys
+  142  ls
+  143  cd dev
+  144  ls
+  145  cd 
+  146  exit
+  147  ps -xf
+  148  kill -9 2210
+  149  exit
+  150  ps -xf
+  151  kill -9 2215
+  152  exit
+  153  ps -xf
+  154  kill -91785
+  155  kill -91 785
+  156  kill -9 1785
+  157  ps -xf
+  158  exit
+  159  rebot
+  160  reboot
+  161  ps =xf
+  162  ps -xf
+  163  dk
+  164  sudo chmod 700 System/
+  165  exit
+  166  dk
+  167  sudo chmod 770 System/
+  168  ifconfig 
+  169  ls
+  170  ls \tmp
+  171  dk
+  172  ls
+  173  exit
+  174  dk
+  175  sudo chmod 700 System/
+  176  cat /etc/network/interfaces
+  177  ifconfig 
+  178  su
+  179  /etc/init.d/networking restart 
+  180  ifconfig 
+  181  wlp3s0 up
+  182  su
+  183  ifconfig 
+  184  su
+  185  dk
+  186  sudo chmod 770 System/
+  187  sudo chmod 700 System/
+  188  gedit ./.bashrc 
+  189  dk
+  190  sudo chmod 770 System/
+  191  dk
+  192  ls -l
+  193  chmod u+x test.sh 
+  194  ./test.sh 
+  195  gedit .bashrc 
+  196  ls
+  197  dk
+  198  ls
+  199  ./root
+  200  ./rc
+  201  gcc -o exe r.c 
+  202  dk
+  203  ls =l
+  204  ls -l
+  205  chown :root System/
+  206  sudo chown :root System/
+  207  ls -l
+  208  chmod 777 System/
+  209  exit
+  210  man banner 
+  211  netsh
+  212  gedit .bashrc 
+  213  setxkbmap fr
+  214  setxkbmap us
+  215  exit
+  216  dk
+  217  gcc -o exe test.c
+  218  ./exe
+  219  gcc -o exe test.c
+  220  ./exe
+  221  dk
+  222  gcc -o exe test.c
+  223  ./exe
+  224  dk
+  225  gcc -o exe exo7.c 
+  226  ./exe
+  227  dk
+  228  gcc -o exe exo7.c 
+  229  ./exe
+  230  gcc -o exe exo8.c 
+  231  ./exe
+  232  gcc -o exe exo8.c 
+  233  ./exe
+  234  cp exo8.c exo9.c
+  235  gcc -o exe exo9.c 
+  236  ./exe
+  237  gcc -o exe exo9.c 
+  238  ./exe
+  239  gcc -o exe exo9.c 
+  240  ./exe
+  241  cp exo1.c exo10.c
+  242  cp exo6.c exo10.c
+  243  gcc -o exe exo9.c 
+  244  cp exo6.c exo10.c
+  245  ./exe
+  246  gcc -o exe exo10.c 
+  247  ./exe
+  248  gcc -o exe exo10.c 
+  249  ./exe
+  250  gcc -o exe exo11.c 
+  251  ./exe
+  252  cp exo9.c exo12.c
+  253  gcc -o exe exo12.c 
+  254  ./exe
+  255  gcc -o exe exo12.c 
+  256  ./exe
+  257  echo 1 /proc/sys/vm/drop_caches 
+  258  echo 1 > /proc/sys/vm/drop_caches 
+  259  sudo echo 1 > /proc/sys/vm/drop_caches 
+  260  su
+  261  sudo echo 1 > /proc/sys/vm/drop_caches 
+  262  su
+  263  exit
+  264  ls -l drop_caches 
+  265  dk
+  266  chmod 700 System/
+  267  sudo chmod 700 System/
+  268  ls -l System/
+  269  exit
+  270  dk
+  271  chmod 777 System/
+  272  sudo chmod 777 System/
+  273  exit
+  274  man ifconfig 
+  275  nslookup facebook.com
+  276  man nslookupm
+  277  man nslookup
+  278  nslookup facebook.fr
+  279  nslookup facebook.ma
+  280  nslookup uca.ma
+  281  nslookup .com
+  282  nslookup .fb,com
+  283  nslookup fb.com
+  284  exit
+  285  nameserve
+  286  dns
+  287  exit fuck
+  288  netsh
+  289  exit f
+  290  server 8.8.8.8
+  291  nslookup 8.8.8.8
+  292  nslookup localhost
+  293  nslookup 192.168.1.1
+  294  exit
+  295  setxkbmap fr
+  296  setxkbmap us
+  297  shutdown -t 0
+  298  dk
+  299  ls -l
+  300  sudo chmod 770 System/
+  301  sudo chmod 777 System/
+  302  sudo chmod 700 System/
+  303  exit
+  304  dk
+  305  sudo chmod 777 System/
+  306  sudo chmod 700 System/
+  307  exit
+  308  dk
+  309  sudo chmod 777 System/
+  310  sudo chmod 777 Dropbox/
+  311  exit
+  312  dk
+  313  gcc -o exe test.c
+  314  ./exe
+  315  gcc -o exe test.c
+  316  ./exe
+  317  ls
+  318  su
+  319  exit
+  320  ifconfig 
+  321  arp -a
+  322  dk
+  323  gcc -o exe exo1.c 
+  324  ./exe 
+  325  gcc -o exe exo2.c 
+  326  ./exe 
+  327  dk
+  328  gcc -o exe exo3.c 
+  329  ./exe 
+  330  gcc -o exe exo3.c 
+  331  ./exe 
+  332  gcc -o exe exo3.c 
+  333  ./exe 
+  334  gcc -o exe exo4.c 
+  335  ./exe 
+  336  gcc -o exe exo5.c 
+  337  ./exe 
+  338  gcc -o exe exo5.c 
+  339  ./exe 
+  340  gcc -o exe exo5.c 
+  341  ./exe 
+  342  ./exe 6
+  343  gcc -o exe exo5.c 
+  344  ./exe
+  345  dk
+  346  gcc -o exe exo5.c 
+  347  ./exe
+  348  gcc -o exe exo7.c 
+  349  ./exe
+  350  gcc -o exe exo7.c 
+  351  ./exe
+  352  cd /mnt
+  353  ls
+  354  mkdir usb1 usb2 usb3
+  355  su
+  356  exit
+  357  su
+  358  chmod 777 *.lnk
+  359  ls -l *.lnk
+  360  chmod 777 *.lnk
+  361  ls
+  362  ls -l *,lnk
+  363  ls -l *.lnk
+  364  chmod 777 *.lnk
+  365  ls -l *.lnk
+  366  chmod 700 *.lnk
+  367  setxkbmap fr
+  368  setxkbmap us
+  369  python
+  370  man cookies
+  371  exit
+  372  ls -l
+  373  ./pycharm.sh 
+  374  exe
+  375  echo $PATH
+  376  dk
+  377  test/c
+  378  ./test.c
+  379  ls test.
+  380  ls -l test.c
+  381  chmod +x test.c
+  382  ./test.c
+  383  gcc -o exe test.c
+  384  ./exe
+  385  PATH=$PATH:exe
+  386  exe
+  387  echo $PATH
+  388  exe
+  389  ./exe 
+  390  PATH=$PATH:~/Desktop/exe
+  391  exe
+  392  echo $PATH
+  393  PATH=/home/kingdragon/bin:/home/kingdragon/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+  394  echo $PATH
+  395  exit
+  396  gedit .bashrc 
+  397  add-apt-repository ppa:docky-core/stable && apt-get update
+  398  sudo add-apt-repository ppa:docky-core/stable && apt-get update
+  399  su
+  400  apt-get install compizconfig-settings-manager
+  401  su
+  402  unity-tweak-tool 
+  403  sudo apt-get remove unity-tweak-tool 
+  404  su
+  405  sudo add-apt-repository ppa:noobslab/macbuntu
+  406  sudo apt-get ipd
+  407  sudo apt-getupd
+  408  sudo apt-get update 
+  409  sudo apt-get install macbuntu-os-icons-lts-v7
+  410  sudo apt-get install macbuntu-os-ithemes-lts-v7
+  411  sudo apt-get remove docky 
+  412  ls
+  413  cd Android
+  414  ls
+  415  cd ..
+  416  cd android-studio/
+  417  ls
+  418  cd bin/
+  419  ls
+  420  ./studio.sh 
+  421  dk
+  422  gcc -o exe test.c
+  423  ./exe 
+  424  gcc -o exe test.c
+  425  ./exe 
+  426  gcc -o exe test.c
+  427  ./exe 
+  428  dk
+  429  gcc -o exe test.c
+  430  ./exe 
+  431  !
+  432  ls -li
+  433  sudo apt-get upgrade 
+  434  sudo apt-get update 
+  435  sudo apt-get upgrade 
+  436  sudo apt-get update 
+  437  dk
+  438  gcc -o exe poly.c poly.h main.c 
+  439  dk
+  440  gcc -o exe liste.c 
+  441  ./exe 
+  442  gcc -o exe liste.c 
+  443  ./exe 
+  444  gcc -o exe liste.c 
+  445  ./exe 
+  446  gcc -o exe liste.c 
+  447  ./exe 
+  448  gcc -o exe liste.c 
+  449  ./exe 
+  450  gcc -o exe liste.c 
+  451  ./exe 
+  452  gcc -o exe poly.* main.c 
+  453  gcc -o exe poly.c main.c 
+  454  gcc -o exe  main.c 
+  455  ./ma
+  456  ./exe 
+  457  gcc -o exe  main.c 
+  458  ./exe 
+  459  gcc -o exe  main.c 
+  460  ./exe 
+  461  gcc -o exe  main.c 
+  462  ./exe 
+  463  gcc -o exe  main.c 
+  464  ./exe 
+  465  gcc -o exe  main.c 
+  466  ./exe 
+  467  gcc -o exe  liste.c.c 
+  468  gcc -o exe  liste.c.
+  469  gcc -o exe  liste.c
+  470  ./exe 
+  471  gcc -o exe  liste.c
+  472  ./exe 
+  473  gcc -o exe  liste.c
+  474  ./exe 
+  475  gcc -o exe  liste.c
+  476  ./exe 
+  477  gcc -o exe  liste.c
+  478  ./exe 
+  479  gcc -o exe  liste.c
+  480  ./exe 
+  481  gcc -o exe  liste.c
+  482  ./exe 
+  483  gcc -o exe  liste.c
+  484  ./exe 
+  485  gcc -o exe  liste.c
+  486  ./exe 
+  487  gcc -o exe  liste.c
+  488  ./exe 
+  489  gcc -o exe  liste.c
+  490  ./exe 
+  491  gcc -o exe  liste.c
+  492  ./exe 
+  493  man open2
+  494  man 2 open
+  495  man youtube-dl 
+  496  youtube-dl -F
+  497  youtube-dl -F https://www.youtube.com/watch?v=8O4VQVrhoW8&t=1992s
+  498  dk
+  499  gcc -o exe test.c 
+  500  ./exe 
+  501  gcc -o exe test.c 
+  502  ./exe 
+  503  gcc -o exe test.c 
+  504  ./exe 
+  505  gcc -o exe test.c 
+  506  ./exe 
+  507  gcc -o exe test.c 
+  508  ./exe 
+  509  youtube-dl https://www.youtube.com/watch?v=8O4VQVrhoW8&t=1992s
+  510  dk
+  511  youtube-dl -F https://www.youtube.com/watch?v=8O4VQVrhoW8&t
+  512  youtube-dl -f 133 https://www.youtube.com/watch?v=8O4VQVrhoW8&t
+  513  ls
+  514  ./install 
+  515  packettracer 
+  516  gcc -o exe mini_shell.c 
+  517  ./exe 
+  518  gcc -o exe mini_shell.c 
+  519  ./exe 
+  520  gcc -o exe mini_shell.c 
+  521  ./exe 
+  522  gcc -o exe test.c 
+  523  dk
+  524  cd NetBeansProjects/
+  525  ls
+  526  cd pfe2/
+  527  ls
+  528  dk
+  529  cd NetBeansProjects/
+  530  ls
+  531  cd pfe2
+  532  ls
+  533  cd src/
+  534  ls
+  535  cd pfe2/
+  536  ls
+  537  cd ..
+  538  ls
+  539  jar -cvfm Myjar.jar manifest.txt pfe2/*.class
+  540  java
+  541  dk
+  542  cd NetBeansProjects/pfe2/
+  543  ls
+  544  cd src/
+  545  ls
+  546  cd pfe2/
+  547  ls
+  548  javac *.java
+  549  javac *.*
+  550  echo $PATH
+  551  jar -cvfm Myjar.jar ~/Desktop/NetBeansProjects/pfe2/src/manifest.txt ~/Desktop/NetBeansProjects/pfe2/src/pfe2/*.class
+  552  ./jar -cvfm Myjar.jar ~/Desktop/NetBeansProjects/pfe2/src/manifest.txt ~/Desktop/NetBeansProjects/pfe2/src/pfe2/*.class
+  553  javac Main.java 
+  554  cd ..
+  555  ls
+  556  cd ..
+  557  ls
+  558  cd dist/
+  559  ls
+  560  ls -l
+  561  chmod +x pfe2.jar 
+  562  ./pfe2.jar 
+  563  java -jar pfe2.jar 
+  564  java
+  565  echo $PATH
+  566  dk
+  567  gcc -o exe test2.c 
+  568  ./exe
+  569  dk
+  570  gcc -o exe test2.c 
+  571  ./exe
+  572  gcc -o exe test2.c 
+  573  ./exe
+  574  gcc -o exe test2.c 
+  575  ./exe
+  576  dk
+  577  gcc -o exe test2.c 
+  578  ./exe
+  579  gcc -o exe test2.c 
+  580  ./exe
+  581  dk
+  582  gcc -o exe test2.c 
+  583  ./exe
+  584  gcc -o exe test2.c 
+  585  dk
+  586  gcc -o exe test2.c 
+  587  ./exe
+  588  gcc -o exe test2.c 
+  589  ./exe
+  590  dk
+  591  gcc -o exe test.c 
+  592  ./exe
+  593  gcc -o exe test.c 
+  594  ./exe
+  595  gcc -o exe test.c 
+  596  ./exe
+  597  gcc -o exe test.c 
+  598  ./exe
+  599  gcc -o exe test.c 
+  600  ./exe
+  601  gcc -o exe test.c 
+  602  ./exe
+  603  gcc -o exe test.c 
+  604  ./exe
+  605  gcc -o exe test.c 
+  606  ./exe
+  607  gcc -o exe test.c 
+  608  ./exe
+  609  ps
+  610  echo 1 > crypter.txt 
+  611  gcc -o exe test.c 
+  612  ./exe
+  613  gcc -o exe test.c 
+  614  ./exe
+  615  exit
+  616  dk
+  617  gcc -o exe test.c 
+  618  ./exe
+  619  exit
+  620  dk
+  621  gcc -o exe test.c 
+  622  ./exe
+  623  gcc -o exe test.c 
+  624  ./exe
+  625  gcc -o exe test.c 
+  626  ./exe
+  627  gcc -o exe test.c 
+  628  ./exe
+  629  gcc -o exe test.c 
+  630  ./exe
+  631  dk
+  632  ls
+  633  exit
+  634  dk
+  635  youtube-dl -F https://www.youtube.com/watch?v=VPRjCeoBqrI
+  636  youtube-dl -f https://www.youtube.com/watch?v=VPRjCeoBqrI
+  637  youtube-dl -F "https://www.youtube.com/watch?v=VPRjCeoBqrI"
+  638  youtube-dl https://www.youtube.com/watch?v=VPRjCeoBqrI
+  639  dk
+  640  youtube-dl https://www.youtube.com/watch?v=1G4isv_Fylg
+  641  ifconfig 
+  642  dk
+  643  ifconfig 
+  644  youtube-dl https://www.youtube.com/watch?v=1G4isv_Fylg
+  645  ifconfig 
+  646  ifconfig virbr0 down
+  647  sudo ifconfig virbr0 down
+  648  ifconfig 
+  649  sudo ifconfig eno1 down
+  650  ifconfig 
+  651  youtube-dl https://www.youtube.com/watch?v=1G4isv_Fylg
+  652  youtube-dl https://www.youtube.com/watch?v=wz-vIwOfX5A
+  653  ifconfig 
+  654  youtube-dl -F https://www.youtube.com/watch?v=JGwWNGJdvx8
+  655  youtube-dl -F https://www.youtube.com/watch?v=rKc_TCFbz_k
+  656  youtube-dl -f 18 https://www.youtube.com/watch?v=rKc_TCFbz_k
+  657  youtube-dl -F https://www.youtube.com/watch?v=8O4VQVrhoW8&t=1995s
+  658  youtube-dl -f 18 "https://www.youtube.com/watch?v=8O4VQVrhoW8&t=1995s"
+  659  ifconfig 
+  660  ping www.google.com
+  661  sudo ifconfig virbr0 down
+  662  dk
+  663  gcc -o exe test.c
+  664  ./exe
+  665  gcc -o exe test.c
+  666  ./exe
+  667  gcc -o exe test.c
+  668  ./exe
+  669  gcc -o exe test.c
+  670  ./exe
+  671  gcc -o exe test.c
+  672  ./exe
+  673  gcc -o exe test.c
+  674  ./exe
+  675  dk
+  676  gcc -o exe test.c
+  677  ./exe
+  678  gcc -o exe test.c
+  679  ./exe
+  680  gufw
+  681  dk
+  682  gcc -o exe log.c 
+  683  ./exe 
+  684  gcc -o exe log.c 
+  685  ./exe 
+  686  gcc -o exe log.c 
+  687  ./exe 
+  688  gcc -o exe log.c 
+  689  ./exe 
+  690  gcc -o exe log.c 
+  691  ./exe 
+  692  hostname
+  693  hostid 
+  694  host
+  695  cat /etc/hosts
+  696  ping 172.0.1.1
+  697  ping 127.0.1.1
+  698  ping 172.0.1.1
+  699  cat /etc/hosts
+  700  cat /etc/host
+  701  cat /etc/hostname 
+  702  cat /etc/host.conf 
+  703  cat /etc/host
+  704  cat /etc/hosts
+  705  cat /etc/hostname 
+  706  exit
+  707  mv [:digit:]* ./winserver2012/
+  708  mv "[:digit:]*.mp4" ./winserver2012/
+  709  mv "[^a-zA-Z]*.mp4" ./winserver2012/
+  710  mv [^a-zA-Z]*.mp4 ./winserver2012/
+  711  dk
+  712  cd video/
+  713  youtube-dl -F "https://www.youtube.com/watch?v=ntvD_ScxMhE&t=1643s"
+  714  youtube-dl -f 18 "https://www.youtube.com/watch?v=ntvD_ScxMhE&t=1643s"
+  715  youtube-dl -F "https://www.youtube.com/watch?v=bkMEQMaqi3M&t=377s"
+  716  youtube-dl -f 18 "https://www.youtube.com/watch?v=bkMEQMaqi3M&t=377s"
+  717  youtube-dl -F "https://www.youtube.com/watch?v=YgZ0PizAAX8&index=4&list=PLped9VG7STA99e_ZGY8ajK4ARVXxj3Xku"
+  718  youtube-dl -f 18 "https://www.youtube.com/watch?v=YgZ0PizAAX8&index=4&list=PLped9VG7STA99e_ZGY8ajK4ARVXxj3Xku"
+  719  ifconfig 
+  720  dk
+  721  ls
+  722  cd video/Java/j101
+  723  cd video/Java/java101
+  724  cd video/Java/Abdullah\ Elmahmadi/java101
+  725  ls
+  726  exit
+  727  ps -zf
+  728  ps -xf
+  729  kill -9 6238
+  730  kill -9 6169
+  731  exit
+  732  youtube-dl -F "https://www.youtube.com/watch?v=y8kNSCgfudc&list=PLM-C-ImH_a5CPfflqMRRFVqAHSCyjcpGN"
+  733  youtube-dl -f 22 "https://www.youtube.com/watch?v=y8kNSCgfudc&list=PLM-C-ImH_a5CPfflqMRRFVqAHSCyjcpGN"
+  734  cd ..
+  735  cd Java/
+  736  ls
+  737  cd Abdullah\ Elmahmadi/
+  738  ls
+  739  youtube-dl -F "https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43"
+  740  cd java101/
+  741  youtube-dl -f 22 "https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43"
+  742  youtube-dl -F "https://www.youtube.com/playlist?list=PL138BE19EA2405C94"
+  743  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL138BE19EA2405C94"
+  744  dk
+  745  cd video/
+  746  youtube-dl -f 22 "https://www.youtube.com/watch?v=x3UlAwS6dEE"
+  747  youtube-dl -f 22 "https://www.youtube.com/watch?v=pXz5--aoJ7c"
+  748  youtube-dl -F "https://www.youtube.com/playlist?list=PLA94A6FB67AB4CD0D"
+  749  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLA94A6FB67AB4CD0D"
+  750  cd ../../..
+  751  youtube-dl -f 22 "https://www.youtube.com/watch?v=suXTK4CUZJQ"
+  752  youtube-dl -f 22 "https://www.youtube.com/watch?v=5GsdaZWDcdY&t=1303s:
+  753  youtube-dl -f 22 "https://www.youtube.com/watch?v=5GsdaZWDcdY&t=1303s"
+  754  ifconfig 
+  755  ls
+  756  ls -l
+  757  locate log
+  758  cd /var/log
+  759  ls
+  760  youtube-dl -F "https://www.youtube.com/playlist?list=PLMYF6NkLrdN817O88GXt4xAPmM2bD7pLN"
+  761  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN817O88GXt4xAPmM2bD7pLN"
+  762  dk
+  763  youtube-dl -f 22 "https://www.youtube.com/watch?v=p1XpTn_KZF8"
+  764  youtube-dl -F "https://www.youtube.com/watch?v=p1XpTn_KZF8"
+  765  youtube-dl -f 18 "https://www.youtube.com/watch?v=p1XpTn_KZF8"
+  766  ifconfig 
+  767  youtube-dl -f 22 "https://www.youtube.com/watch?v=p1XpTn_KZF8"
+  768  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN817O88GXt4xAPmM2bD7pLN"
+  769  dk
+  770  edit test.c
+  771  editor t.txt 
+  772  telnet 192.168.1.1
+  773  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLDoPjvoNmBAzAeIcXA3_JsmSkPKOs9W-Y:
+  774  "
+  775  cat /etc/network/interfaces
+  776  iwconfig 
+  777  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLDoPjvoNmBAyEyQaHOHO1HJtmSgGt07VC"
+  778  host
+  779  host google.com
+  780  ping google.com
+  781  host google.com
+  782  nslookup google.com
+  783  man host
+  784  ping google.com
+  785  man nslookup 
+  786  exit
+  787  if config; else
+  788  if(3>4) printf("hello") else printf("ok")
+  789  if(3>4) print("hello") else print("ok")
+  790  if(3>4) print("hello"); else print("ok");
+  791  if(3>4) printf("hello"); else printf("ok");
+  792  if(3>4) echo hh else echo ok
+  793  if(3>4) echo hh 
+  794  if(3>4) echo "hh" 
+  795  exit
+  796  cd /opt/lampp/
+  797  ls
+  798  cd apache2/
+  799  ls
+  800  cd ..
+  801  ls
+  802  ./xampp 
+  803  ./xampp start
+  804  sudo ./xampp start
+  805  sudo ./xampp stop
+  806  cat /etc/hosts
+  807  ping King-Dragon 
+  808  packettracer 
+  809  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLDoPjvoNmBAwClZ1PDcjWilxp9YERUbNt"
+  810  cd html5/
+  811  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLDoPjvoNmBAyXCAQMLhDRZsLi_HurqTBZ"
+  812  init 0
+  813  ifconfig 
+  814  su
+  815  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLDoPjvoNmBAwXDFEEpc8TT6MFbDAC5XNB"
+  816  sudo apt-get install dhcpd6
+  817  exit
+  818  ps -xf
+  819  kill -9 2296
+  820  ps -xf
+  821  kill -9 3922
+  822  exit
+  823  sudo apt-get update 
+  824  sudo apt-get upgrade 
+  825  sudo apt-get update 
+  826  exit
+  827  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN85yXTEQzDcHbmZHCyuCDnK"
+  828  sudo apt-get install samba
+  829  su
+  830  exit
+  831  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN85yXTEQzDcHbmZHCyuCDnK"
+  832  su
+  833  exit
+  834  ifconfig 
+  835  su
+  836  exit
+  837  iwconfig 
+  838  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN85yXTEQzDcHbmZHCyuCDnK"
+  839  ping google.com
+  840  ping www.google.com
+  841  exit
+  842  ping www.google.com
+  843  exit
+  844  locate virtualbox
+  845  VBoxManage modifyvm "Mac" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+  846  VBoxManage setextradata "Mac" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3"
+  847  VBoxManage setextradata "Mac" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.
+  848  .0"
+  849  VBoxManage setextradata "Mac" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
+  850  VBoxManage setextradata "Mac" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+  851  VBoxManage setextradata "Mac" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+  852  dd
+  853  df
+  854  welcome
+  855  exit
+  856  su
+  857  exit
+  858  su
+  859  aa
+  860  su
+  861  exit
+  862  su
+  863  exit
+  864  dk
+  865  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi"
+  866  man youtube-dl 
+  867  youtube-dl --palylist-items 16 -f 18 "https://www.youtube.com/playlist?list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi"
+  868  youtube-dl --playlist-items 16 -f 18 "https://www.youtube.com/playlist?list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi"
+  869  youtube-dl --playlist-items 17-23 -f 22 "https://www.youtube.com/playlist?list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi"
+  870  youtube-dl -f 22 "https://www.youtube.com/watch?v=LDVztNtJWOo&t=462s"
+  871  su
+  872  shutdown -t 0
+  873  su
+  874  exiy
+  875  youtube-dl --playlist-items 17-23 -f 22 "https://www.youtube.com/playlist?list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi"
+  876  su
+  877  exit
+  878  dk
+  879  cd Video/Java/
+  880  ls
+  881  cd JavaFX/
+  882  ls
+  883  cd liste/
+  884  youtube-dl -ff 22 "https://www.youtube.com/watch?v=eT3kuQUy8c8"
+  885  youtube-dl -f 22 "https://www.youtube.com/watch?v=eT3kuQUy8c8"
+  886  su
+  887  exit
+  888  su
+  889  PATH=$PATH:/opt/lampp/
+  890  xampp start
+  891  su
+  892  exit
+  893  sudo xampp start
+  894  echo $PATH
+  895  su
+  896  exit
+  897  su
+  898  reboot
+  899  echo $PATH
+  900  PATH=$PATH:/opt/lampp/
+  901  echo $PATH
+  902  su
+  903  exit
+  904  su
+  905  exit
+  906  su
+  907  init 0
+  908  xampp
+  909  gedit ~/.bashrc 
+  910  gedit /etc/bash.bashrc 
+  911  sudo gedit /etc/bash.bashrc 
+  912  sudo gedit /etc/profile
+  913  xampp
+  914  sudo gedit /etc/profile
+  915  xampp
+  916  sudo apt-get update 
+  917  xampp
+  918  sudo gedit /etc/profile
+  919  xampp
+  920  sudo gedit /etc/profile
+  921  xampp
+  922  cat /etc/profile
+  923  gedit ~/.profile 
+  924  xampp
+  925  xampp start
+  926  su
+  927  exit
+  928  xampp start
+  929  xampp
+  930  gedit ~/.profile 
+  931  xampp
+  932  su
+  933  exit
+  934  xampp
+  935  su
+  936  sudo xampp start
+  937  xampp start
+  938  su
+  939  exit
+  940  sudo xampp start
+  941  su
+  942  exit
+  943  dk
+  944  gcc -o exe UNION.c 
+  945  ./exe
+  946  gcc -o exe UNION.c 
+  947  ./exe
+  948  gcc -o exe UNION.c 
+  949  gcc -o exe UNION.c 
+  950  ./exe
+  951  gcc -o exe UNION.c 
+  952  ./exe
+  953  gcc -o exe ok.c 
+  954  ./exe
+  955  dk
+  956  gcc -o exe ok.c 
+  957  dk
+  958  ./exe
+  959  gcc -o exe ok.c 
+  960  ./exe
+  961  gcc -o exe ok.c 
+  962  ./exe
+  963  gcc -o exe ok.c 
+  964  ./exe
+  965  dk
+  966  gcc -o exe ok.c 
+  967  ./exe
+  968  gcc -o exe ok.c 
+  969  ./exe
+  970  gcc -o exe ok.c 
+  971  ./exe
+  972  gcc -o exe ok.c 
+  973  ./exe
+  974  gcc -o exe ok.c 
+  975  ./exe
+  976  gcc -o exe ok.c 
+  977  dk
+  978  gcc -o exe ok.c 
+  979  dk
+  980  ./exe
+  981  gcc -o exe ok.c 
+  982  ./exe
+  983  gcc -o exe ok.c 
+  984  ./exe
+  985  gcc -o exe ok.c 
+  986  ./exe
+  987  gcc -o exe ok.c 
+  988  ./exe
+  989  gcc -o exe ok.c 
+  990  dk
+  991  gcc -o exe ok.c 
+  992  ./exe
+  993  gcc -o exe ok.c 
+  994  ./exe
+  995  dk
+  996  gcc -o exe test11.c 
+  997  ./exe
+  998  gcc -o exe test11.c 
+  999  ./exe
+ 1000  gcc -o exe test11.c 
+ 1001  ./exe
+ 1002  gcc -o exe test11.c 
+ 1003  ./exe
+ 1004  gcc -o exe test11.c 
+ 1005  ./exe
+ 1006  gcc -o exe test11.c 
+ 1007  ./exe
+ 1008  gcc -o exe test11.c 
+ 1009  ./exe
+ 1010  gcc -o exe test11.c 
+ 1011  ./exe
+ 1012  gcc -o exe test11.c 
+ 1013  ./exe
+ 1014  gcc -o exe test11.c 
+ 1015  ./exe
+ 1016  gcc -o exe test11.c 
+ 1017  ./exe
+ 1018  gcc -o exe test11.c 
+ 1019  ./exe
+ 1020  su
+ 1021  exit
+ 1022  ls
+ 1023  cd android-studio/
+ 1024  ls
+ 1025  cd bin/
+ 1026  ls
+ 1027  ./studio.sh 
+ 1028  ls genymotion-2.9.0-linux_x64.bin 
+ 1029  ls -l genymotion-2.9.0-linux_x64.bin 
+ 1030  chmod +x genymotion-2.9.0-linux_x64.bin 
+ 1031  ./genymotion-2.9.0-linux_x64.bin 
+ 1032  cd ..
+ 1033  ./genymotion-2.9.0-linux_x64.bin 
+ 1034  cd genymotion/
+ 1035  ls
+ 1036  ./genymotion
+ 1037  ./studio.sh 
+ 1038  ./genymotion
+ 1039  setxkbmap fr
+ 1040  setxkbmap us
+ 1041  exit
+ 1042  setxkbmap ar
+ 1043  setxkbmap 
+ 1044  setxkbmap يس
+ 1045  java -jar pfe2.jar 
+ 1046  cd ..
+ 1047  ls
+ 1048  jar cvf pf pfe2/*
+ 1049  jar cvf pf.jar pfe2/*
+ 1050  jar -cvf ~/Desktop/pf.jar /home/kingdragon/Desktop/NetBeansProjects/pfe2/*
+ 1051  ./jar -cvf ~/Desktop/pf.jar /home/kingdragon/Desktop/NetBeansProjects/pfe2/*
+ 1052  dk
+ 1053  java -jar pf.jar
+ 1054  /opt/java/jdk1.8.0_121/bin/jar pf.jar pfe2/*
+ 1055  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar pfe2/*
+ 1056  java -jar pf.jar
+ 1057  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar ./*
+ 1058  cd pfe2/
+ 1059  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar ./*
+ 1060  java -jar pf.jar
+ 1061  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar ./*
+ 1062  java -jar pf.jar
+ 1063  cd ..
+ 1064  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar pfe2/*
+ 1065  java -jar pf.jar
+ 1066  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar pfe2/* manifest.txt 
+ 1067  java -jar pf.jar
+ 1068  cd pfe2/src/
+ 1069  ls
+ 1070  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar ./*
+ 1071  java -jar pf.jar
+ 1072  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar pfe2/* manifest.txt 
+ 1073  java -jar pf.jar
+ 1074  ls
+ 1075  cd pfe2/
+ 1076  ls
+ 1077  javac * 
+ 1078  javac -cp ".:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jfoenix.jar;/home/kingdragon/Desktop/NetBeansProjects/ComJar/jdom-2.0.6.jar"  * 
+ 1079  javac -cp ".:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jfoenix.jar:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jdom-2.0.6.jar"  * 
+ 1080  javac -cp ".:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jfoenix.jar:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jdom-2.0.6.jar"  *.java 
+ 1081  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar pfe2/*.class manifest.txt 
+ 1082  ls
+ 1083  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar pfe2/* manifest.txt 
+ 1084  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar * 
+ 1085  java -jar pf.jar
+ 1086  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar *.class manifest.txt 
+ 1087  java -jar pf.jar
+ 1088  cd ..
+ 1089  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar pfe2/* manifest.txt 
+ 1090  java -jar pf.jar
+ 1091  cd pfe2/
+ 1092  java Main 
+ 1093  java Main
+ 1094  java Main.class
+ 1095  javac Main.java 
+ 1096  javac -cp ".:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jfoenix.jar:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jdom-2.0.6.jar"  *.java 
+ 1097  java Main 
+ 1098  java -jar pf.jar
+ 1099  java -jar pfe2.jar
+ 1100  dk
+ 1101  java -jar pfe2.jar
+ 1102  java *.class
+ 1103  java *
+ 1104  java Main 
+ 1105  java -jar pfe2.jar
+ 1106  java Main *.class
+ 1107  ls *.class
+ 1108  rm *.class
+ 1109  javac -cp ".:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jfoenix.jar:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jdom-2.0.6.jar"  Main.java 
+ 1110  javac -cp ".:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jfoenix.jar:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jdom-2.0.6.jar"  Main.java Control.java 
+ 1111  javac -cp ".:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jfoenix.jar:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jdom-2.0.6.jar"  Main.java Control.java ContainerDrawerControlle.java 
+ 1112  java Main 
+ 1113  javac -cp ".:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jfoenix.jar:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jdom-2.0.6.jar"  *.java t
+ 1114  javac -cp ".:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jfoenix.jar:/home/kingdragon/Desktop/NetBeansProjects/ComJar/jdom-2.0.6.jar"  *.java
+ 1115  java *
+ 1116  java Main
+ 1117  java -jar pfe2.jar 
+ 1118  ls
+ 1119  java -jar pfe2.jar 
+ 1120  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar pfe2/* manifest.txt 
+ 1121  java -jar pf.jar 
+ 1122  su
+ 1123  exit
+ 1124  youtube-dl -F "https://www.youtube.com/playlist?list=PLfyq5A05w62_verkKr3DWKWbttvdgexH3"
+ 1125  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PLfyq5A05w62_verkKr3DWKWbttvdgexH3"
+ 1126  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLfyq5A05w62_verkKr3DWKWbttvdgexH3"
+ 1127  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLhs1urmduZ29LNYi_MaoU60JemQ6Aei6A"
+ 1128  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi"
+ 1129  man youtube-dl 
+ 1130  youtube-dl -f 22 --playlist-items 21 "https://www.youtube.com/playlist?list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi"
+ 1131  youtube-dl -f 18 "https://www.youtube.com/watch?v=QpLT8MVGTgc&index=21&t=4s&list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi"
+ 1132  dk
+ 1133  ls
+ 1134  gcc -Wall -o exe x.c 
+ 1135  su
+ 1136  gcc -Wall -o exe x.c 
+ 1137  gcc -Wall -o exe $(xml2-config --cflags) $(xml2-config --libs) \ x.c
+ 1138  ls x.c 
+ 1139  ls -l x.c 
+ 1140  gcc -Wall -o exe $(xml2-config --cflags) $(xml2-config --libs) \ x.c
+ 1141  gcc -Wall -o exe $(xml2-config --cflags) $(xml2-config --libs) x.c 
+ 1142  gcc -Wall -o exe $(xml2-config --cflags) $(xml2-config --libs) x.c  -lxml2
+ 1143  ./exe test.xml
+ 1144  dk
+ 1145  gcc -Wall -o exe $(xml2-config --cflags) $(xml2-config --libs) x.c  -lxml2
+ 1146  ./exe test.xml
+ 1147  su
+ 1148  exit
+ 1149  xampp
+ 1150  su
+ 1151  exit
+ 1152  su
+ 1153  exit
+ 1154  jar
+ 1155  su
+ 1156  init 0
+ 1157  history 
+ 1158  dk
+ 1159  touch myhistory
+ 1160  history | less >> myhistory 
+ 1161  history 
+ 1162  su
+ 1163  ls
+ 1164  gcc -o exe test11.c 
+ 1165  ./exe
+ 1166  gcc -o exe test11.c 
+ 1167  ./exe
+ 1168  gcc -o exe test11.c 
+ 1169  ./exe
+ 1170  gcc -o C3 Client3.c 
+ 1171  gcc -o C3 Client3.c -lpthread
+ 1172  ./C3
+ 1173  gcc -o SR3 Server3.c -lpthread
+ 1174  ./SR3
+ 1175  gcc -o C3 Client3.c -lpthread
+ 1176  ./C3
+ 1177  /opt/java/jdk1.8.0_121/bin/jar cvf pf.jar pfe2/* manifest.txt 
+ 1178  java -jar pf.jar 
+ 1179  su
+ 1180  dk
+ 1181  ls
+ 1182  gcc -o exe exo.3
+ 1183  ls
+ 1184  cd ch/
+ 1185  ls
+ 1186  gcc -o exe exo3.c 
+ 1187  ./exe
+ 1188  gcc -o exe exo3.c 
+ 1189  ./exe
+ 1190  gcc -o exe exo1.c 
+ 1191  ./exe
+ 1192  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN9OEcNlZ7H_betC4q5reRJL"
+ 1193  mkdir EthicalHacking2
+ 1194  cd EthicalHacking2
+ 1195  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN9nRLoK1hjXh94IIKlbZ3cZ"
+ 1196  mkdir EthicalHacking3
+ 1197  cd EthicalHacking3/
+ 1198  cd ..
+ 1199  rmdir EthicalHacking3/
+ 1200  cd ..
+ 1201  mkdir EthicalHacking3
+ 1202  cd EthicalHacking3/
+ 1203  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN9fT3uNQ0uLnghHvSo78iCU"
+ 1204  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN814EKO_WahZPwTUyJGMfUU"
+ 1205  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN9eOWuLm5_w9EvbbhK3guoe"
+ 1206  cd ..
+ 1207  mkdir EthicalHacking6
+ 1208  cd EthicalHacking6
+ 1209  youtube-dl -f 18 "https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43"
+ 1210  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN9s1vEOJzhejcZKWqsHgOMF"
+ 1211  ls
+ 1212  su
+ 1213  ls
+ 1214  ls -l
+ 1215  ls
+ 1216  ls -l
+ 1217  ls .
+ 1218  dk
+ 1219  ls
+ 1220  su
+ 1221  su - root
+ 1222  ls ~/Desktop/
+ 1223  ls  /boot
+ 1224  ls ..
+ 1225  ls
+ 1226  ls ..
+ 1227  ls
+ 1228  dk
+ 1229  ls ..
+ 1230  ls .
+ 1231  ls ..
+ 1232  ls ../..
+ 1233  ls ../../..
+ 1234  ls ../../../..
+ 1235  rrrrr
+ 1236  dk
+ 1237  more myhistory 
+ 1238  cd ..
+ 1239  ls
+ 1240  cd ..
+ 1241  cd ~
+ 1242  cd Desktop/
+ 1243  cd ..
+ 1244  cd ~/Desktop/
+ 1245  cd ../Downloads/
+ 1246  cd
+ 1247  cd /bin
+ 1248  cd ~/Desktop/
+ 1249  cd -
+ 1250  cd /
+ 1251  cd ..
+ 1252  cd .
+ 1253  cd
+ 1254  cd Picturs
+ 1255  cd Pictures
+ 1256  dc
+ 1257  man dc
+ 1258  cd /etc
+ 1259  cd ~
+ 1260  pwd
+ 1261  man pwd
+ 1262  cd Desktop/
+ 1263  mkdir lbn
+ 1264  mkdir mkdir
+ 1265  mkdir m/n
+ 1266  mkdir lbn/n
+ 1267  mkdir -p m/n
+ 1268  mkdir -p m/n/x/v
+ 1269  rmdir lbn
+ 1270  rmdir mkdir/
+ 1271  rm -r lbn
+ 1272  man rm
+ 1273  rm -r -i -v m
+ 1274  man rm
+ 1275  touch lbn.txt
+ 1276  touch ll.c
+ 1277  rm lbn.txt 
+ 1278  rm ll.c 
+ 1279  cp test11.c ./ok
+ 1280  cp /etc/passwd ./pd
+ 1281  mv ok lbn
+ 1282  mv lbn marmouchi/
+ 1283  ls marmouchi/
+ 1284  mv pd lbn
+ 1285  rm lbn
+ 1286  rm ./marmouchi/lbn
+ 1287  touch file.txt
+ 1288  ls -l
+ 1289  rm file.txt 
+ 1290  touche file.txt
+ 1291  touch file.txt
+ 1292  ln file.txt tit
+ 1293  ls -l
+ 1294  date
+ 1295  cal
+ 1296  free
+ 1297  free -h
+ 1298  top
+ 1299  clear
+ 1300  less tit
+ 1301  more tit
+ 1302  cat tit
+ 1303  less myhistory 
+ 1304  head myhistory 
+ 1305  head -n 2 myhistory 
+ 1306  head -n 20 myhistory 
+ 1307  tail myhistory 
+ 1308  tail -n 2 myhistory 
+ 1309  tail -n 2 myhistory | head -n 1
+ 1310  head -n 20 myhistory | tail -n 5
+ 1311  head -n 20 myhistory | tail -n 4
+ 1312  head -n 20 myhistory | tail -n 6
+ 1313  wc tttt.txt 
+ 1314  wc -l
+ 1315  wc -l tttt.txt 
+ 1316  ls -l
+ 1317  ls -l | wc -l
+ 1318  grep "ilyase" tttt.txt 
+ 1319  grep "nn" tttt.txt 
+ 1320  grep "i" tttt.txt 
+ 1321  ls -l | grep video
+ 1322  ls -l | grep Video
+ 1323  ls -l | grep -i video
+ 1324  man grep
+ 1325  ls -l
+ 1326  dk
+ 1327  ls -l
+ 1328  cd /
+ 1329  ls -l
+ 1330  rm usr/
+ 1331  rm -r usr/
+ 1332  rm -f usr/
+ 1333  rm -rf usr/
+ 1334  ls -l passwd
+ 1335  ls -l
+ 1336  cd java-8-openjdk-amd64/
+ 1337  ls -l
+ 1338  firefox
+ 1339  firefox -url "http://facebook.com"
+ 1340  init 0
+ 1341  dk
+ 1342  gcc -o exe hh.c 
+ 1343  ./exe
+ 1344  gcc -o exe hh.c 
+ 1345  ./exe
+ 1346  ps -xf
+ 1347  kill -kill 6236
+ 1348  ps -xf
+ 1349  dk
+ 1350  youtube-dl -F "https://www.youtube.com/watch?v=QpLT8MVGTgc&list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi&index=21&t=4s"
+ 1351  youtube-dl -F "https://www.youtube.com/watch?v=QpLT8MVGTgc"
+ 1352  youtube-dl "https://www.youtube.com/watch?v=QpLT8MVGTgc"
+ 1353  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi"
+ 1354  youtube-dl -f 18 --playlist-items 22-26 "https://www.youtube.com/playlist?list=PLViBjp_3BVAj3hKShR_YTxB274LD_1rSi"
+ 1355  dk
+ 1356  cat ex1.c ex2.c ex3.c ex4.c exo5.c >> TP.txt 
+ 1357  cat exo6.txt exo7.txt exo8.txt exo9.txt exo10.txt exo11.txt exo12.txt 
+ 1358  cat exo6.txt exo7.txt exo8.txt exo9.txt exo10.txt exo11.txt exo12.txt >> TP.txt 
+ 1359  ./SR
+ 1360  ./SR3
+ 1361  ./C3
+ 1362  su
+ 1363  exit
+ 1364  su
+ 1365  mount /dev/sdb1 /mnt/usb1/
+ 1366  sudo mount /dev/sdb1 /mnt/usb1/
+ 1367  umount /dev/sdb1
+ 1368  sudo umount /dev/sdb1
+ 1369  sudo mount /dev/sdb1 /mnt/usb1/
+ 1370  su
+ 1371  exit
+ 1372  init 0
+ 1373  ./C3
+ 1374  ./SR3
+ 1375  gcc -o SR3 Server3.c -lpthread 
+ 1376  ./SR3
+ 1377  gcc -o SR3 Server3.c -lpthread 
+ 1378  ./SR3
+ 1379  gcc -o SR3 Server3.c -lpthread 
+ 1380  ./SR3
+ 1381  gcc -o SR3 Server3.c -lpthread 
+ 1382  ./SR3
+ 1383  gcc -o SR3 Server3.c -lpthread 
+ 1384  ./SR3
+ 1385  gcc -o SR3 Server3.c -lpthread 
+ 1386  ./SR3
+ 1387  gcc -o SR3 Server3.c -lpthread 
+ 1388  ./SR3
+ 1389  gcc -o SR3 Server3.c -lpthread 
+ 1390  ./SR3
+ 1391  apt-get update
+ 1392  sudo apt-get update
+ 1393  reset
+ 1394  gcc -o SR3 Server3.c -lpthread 
+ 1395  ./SR3
+ 1396  gcc -o SR3 Server3.c -lpthread 
+ 1397  ./SR3
+ 1398  gcc -o SR3 Server3.c -lpthread 
+ 1399  ./SR3
+ 1400  init 0
+ 1401  sudo apt-get install libsdl1.2debian libsdl2-dev 
+ 1402  sudo apt-get install libsdl1.2debian
+ 1403  sudo apt-get install libsdl2-dev 
+ 1404  exit
+ 1405  dk
+ 1406  cd SDL/
+ 1407  ls
+ 1408  gcc -o exe test1.c
+ 1409  gcc 'sdl-config --cflags --libs' -o exe test1.c 
+ 1410  apt get update
+ 1411  apt-get update
+ 1412  sudo apt-get update
+ 1413  gcc 'sdl-config --cflags --libs' -o exe test1.c 
+ 1414  sudo apt-get install libsdl1.2-dev 
+ 1415  sudo apt-get update
+ 1416  gcc 'sdl-config --cflags --libs' -o exe test1.c 
+ 1417  gcc `sdl-config --cflags --libs` -o exe.x test1.c 
+ 1418  gcc 'sdl-config --cflags --libs' -o exe test1.c 
+ 1419  gcc `sdl-config --cflags --libs` -o exe.x test1.c 
+ 1420  ./exe.x
+ 1421  gcc 'sdl-config --cflags --libs' -o exe.x test1.c 
+ 1422  gcc `sdl-config --cflags --libs` -o exe test1.c 
+ 1423  sudo apt-get remove libsdl2-dev 
+ 1424  sudo apt-get install libsdl1.2-dev 
+ 1425  sudo apt-get install libsdl1.2debian
+ 1426  gcc `sdl-config --cflags --libs` -o exe test1.c 
+ 1427  gcc `sdl-config --cflags --libs` -o exe test1.c
+ 1428  sudo apt-get update
+ 1429  gcc `sdl-config --cflags --libs` -o exe test1.c
+ 1430  sudo apt-get install libsdl1.2-dev 
+ 1431  sudo apt-get remove libsdl1.2-dev 
+ 1432  sudo apt-get install libsdl1.2-dev 
+ 1433  gcc `sdl-config --cflags --libs` -o exe test1.c
+ 1434  dk
+ 1435  cd SDL/
+ 1436  gcc `sdl-config --cflags --libs` -o exe test1.c
+ 1437  sudo apt-get autoremove libsdl1.2-dev 
+ 1438  sudo apt-get install libsdl1.2-dev 
+ 1439  gcc `sdl-config --cflags --libs` -o exe test1.c
+ 1440  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1441  ./exe
+ 1442  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1443  ./exe
+ 1444  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1445  ./exe
+ 1446  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1447  ./exe
+ 1448  ./exe  reset
+ 1449  reset
+ 1450  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1451  ./exe
+ 1452  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1453  ./exe
+ 1454  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1455  ./exe
+ 1456  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1457  ./exe
+ 1458  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1459  ./exe
+ 1460  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1461  ./exe
+ 1462  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL  
+ 1463  ./exe
+ 1464  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL ;./exe
+ 1465  sudo apt-get install libsdl-image1.2
+ 1466  sudo apt-get install libsdl-image1.2-dev 
+ 1467  sudo apt-get install libsdl-image1.2
+ 1468  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL -lSDL_image;./exe
+ 1469  setxhbmap us
+ 1470  setxbbmap us
+ 1471  setxkbmap us
+ 1472  setxkbmap ar
+ 1473  setxkbmap us
+ 1474  init 99
+ 1475  init 9
+ 1476  init 0
+ 1477  gcc `sdl-config --cflags --libs` -o exe test1.c -lSDL -lSDL_image;./exe
+ 1478  gcc `sdl-config --cflags --libs` -o exe image.c -lSDL -lSDL_image;./exe
+ 1479  sudo apt-get install libgtk2.0-dev 
+ 1480  sudo apt-get install libgtk2.0-0
+ 1481  cd dk/
+ 1482  dk
+ 1483  cd gtk/
+ 1484  gcc $(pkg-config --libs --cflags gtk+-2.0) -o exe test1.c 
+ 1485  gcc $(pkg-config --libs --cflags gtk+-2.0) -o exe test1.c  --libs gtk+-2.0
+ 1486  gcc $(pkg-config --libs --cflags gtk+-2.0) -o exe test1.c
+ 1487  gcc $(pkg-config --libs glib-2.0 gtk+-2.0) -o exe test1.c
+ 1488  gcc $(pkg-config --libs --cflags gtk+-2.0) -o exe test1.c
+ 1489  gcc $(pkg-config --libs --cflags gtk+-2.0) -o exe test1.c -lgtk2.0
+ 1490  gcc $(pkg-config --libs --cflags gtk+-2.0) -o exe test1.c -lgtk2
+ 1491  gcc $(pkg-config --libs --cflags gtk+-2.0) -o exe test1.c -lgtk
+ 1492  gcc $(pkg-config --libs --cflags gtk+-2.0) -o exe test1.c -lgtk `pkg-config --libs gtk+-2.0`
+ 1493  gcc $(pkg-config --libs --cflags gtk+-2.0) -o exe test1.c  `pkg-config --libs gtk+-2.0`
+ 1494  ./exe
+ 1495  gcc $(pkg-config --libs --cflags gtk+-2.0) -o exe test1.c  `pkg-config --libs gtk+-2.0` ;./exe
+ 1496  su
+ 1497  init 0
+ 1498  ping facebook.com
+ 1499  nslookup facebook.com
+ 1500  reset
+ 1501  gcc  -o exe test1.c -lSDL -lSDL_image;./exe
+ 1502  gcc  -o exe test1.c -lSDL;./exe
+ 1503  route -n
+ 1504  gcc -o SR3 Server3.c -lpthread 
+ 1505  ./SR3
+ 1506  gcc -o SR3 Server3.c -lpthread 
+ 1507  ./SR3
+ 1508  gcc -o SR3 Server3.c -lpthread 
+ 1509  ./SR3
+ 1510  gcc -o SR3 Server3.c -lpthread 
+ 1511  ./SR3
+ 1512  gcc -o C3 Client3.c -lpthread
+ 1513  ./C3
+ 1514  route -net add 105.158.81.202 gw 192.168.1.1
+ 1515  ifconfig 
+ 1516  route -net add 105.158.81.202 gw 192.168.1.1 dev wlp3s0
+ 1517  route -net add 105.158.81.202/24 gw 192.168.1.1 dev wlp3s0
+ 1518  route add -net 105.158.81.202 gw 192.168.1.1 dev wlp3s0
+ 1519  sudo route add -net 105.158.81.202 gw 192.168.1.1 dev wlp3s0
+ 1520  ping 105.158.81.202
+ 1521  ping 192.168.1.3
+ 1522  route -n
+ 1523  gcc -o C3 Client3.c -lpthread
+ 1524  ./C3
+ 1525  ping 105.158.81.202
+ 1526  ping facebook.com
+ 1527  ping 185.60.216.35
+ 1528  sudo apt-get install libsfml-dev
+ 1529  dk
+ 1530  g++ -o exe sf.cpp 
+ 1531  g++ -o exe sf.cpp -ilib/sfml/include -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system
+ 1532  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system
+ 1533  ./exe
+ 1534  cd SFML/
+ 1535  ls
+ 1536  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ; ./exe
+ 1537  ls -l root
+ 1538  ls -l 
+ 1539  su - root
+ 1540  exit
+ 1541  ls -l
+ 1542  touch file
+ 1543  ls -l
+ 1544  ls
+ 1545  ls -l
+ 1546  ls -S
+ 1547  man ls
+ 1548  ls -t
+ 1549  ls 
+ 1550  man ls
+ 1551  ls /
+ 1552  dk
+ 1553  ls
+ 1554  cd -
+ 1555  cd /
+ 1556  cd ~/Desktop/
+ 1557  cd /bin/
+ 1558  cd ..
+ 1559  cd .
+ 1560  cd ~/Desktop/
+ 1561  touch loubnq
+ 1562  touch ./marmouchi/ll
+ 1563  touch ../loubna
+ 1564  nano loubnq 
+ 1565  cat loubnq 
+ 1566  more loubnq 
+ 1567  less loubnq 
+ 1568  rm loubnq
+ 1569  rm ./marmouchi/ll ../loubna
+ 1570  mkdir loubna
+ 1571  rmdir loubna/
+ 1572  man rm
+ 1573  touch loubna ll
+ 1574  ln -s loubna l
+ 1575  ln loubna lb
+ 1576  ls -l
+ 1577  nano loubna
+ 1578  cat loubna
+ 1579  gedit loubna 
+ 1580  subl loubna 
+ 1581  vlc-wrapper live.mp4 
+ 1582  wc loubna
+ 1583  man wc
+ 1584  ls -l
+ 1585  chmod 777 loubna 
+ 1586  ls -l
+ 1587  chmod 700 loubna 
+ 1588  ls -l
+ 1589  useradd
+ 1590  useradd test
+ 1591  sudo useradd test
+ 1592  sudo adduser
+ 1593  sudo useradd
+ 1594  deluser test
+ 1595  sudo deluser test
+ 1596  chmod  707 /root 
+ 1597  sudo chmod  707 /root 
+ 1598  dk
+ 1599  chmod 700 /root
+ 1600  sudo chmod 700 /root
+ 1601  ls -l
+ 1602  chmod +x loubna 
+ 1603  ls -l
+ 1604  chmod -x loubna 
+ 1605  ls -l loubna 
+ 1606  chmod u+x loubna 
+ 1607  ls -l loubna 
+ 1608  chmod g+r o+w loubna 
+ 1609  chmod g+rm,o+w loubna 
+ 1610  chmod g+r,o+w loubna 
+ 1611  ls -l loubna 
+ 1612  chmod g+wx loubna 
+ 1613  ls -l loubna 
+ 1614  chmod og+wx loubna 
+ 1615  ls -l loubna 
+ 1616  chmod og=wx loubna 
+ 1617  ls -l loubna 
+ 1618  chmod u=x loubna 
+ 1619  ls -l loubna 
+ 1620  chown root loubna 
+ 1621  sudo chown root loubna 
+ 1622  ls -l loubna 
+ 1623  sudo chown root: loubna 
+ 1624  ls -l loubna 
+ 1625  sudo chown :root loubna 
+ 1626  ls -l loubna 
+ 1627  sudo chmod u+rw,go-wx
+ 1628  sudo chmod u+rw,go-wx loubna 
+ 1629  ls -l loubna 
+ 1630  touch loubna
+ 1631  sudo chmod u+rw,go-wx loubna 
+ 1632  ls -l
+ 1633  ls -l loubna 
+ 1634  chmod go-r loubna 
+ 1635  ls -l loubna 
+ 1636  chown root: loubna 
+ 1637  sudo chown root: loubna 
+ 1638  chown root: loubna 
+ 1639  ls -l loubna 
+ 1640  ls -l ..
+ 1641  ls -l
+ 1642  chmod 700 System/
+ 1643  sudo chmod 700 System/
+ 1644  ls -l
+ 1645  sudo chmod 704 System/
+ 1646  ls -l
+ 1647  ls ..
+ 1648  ls -l ..
+ 1649  dk
+ 1650  ls -l
+ 1651  passwd root
+ 1652  sudo passwd root
+ 1653  find . -type f -name ll
+ 1654  locate dhcpd
+ 1655  locate ll
+ 1656  gcc -o tt r.c 
+ 1657  ./tt
+ 1658  tt
+ 1659  ./tt
+ 1660  gcc -o tt ll.c 
+ 1661  ./tt
+ 1662  gcc -o tt ll.c 
+ 1663  ./tt
+ 1664  ls -l
+ 1665  chmod 777 System/
+ 1666  sudo chmod 777 System/
+ 1667  ls
+ 1668  ls -F
+ 1669  dk
+ 1670  ls -F
+ 1671  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system
+ 1672  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ;./exe
+ 1673  reset
+ 1674  history
+ 1675  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ;./exe
+ 1676  jjjj
+ 1677  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ;./exe
+ 1678  g++ -o exe mouseevent.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ;./exe
+ 1679  java -version
+ 1680  ls /usr/local
+ 1681  man ls
+ 1682  ls -s ./share/xml/schema
+ 1683  ls
+ 1684  cd /usr/local
+ 1685  ls -s ./share/xml/schema/sh
+ 1686  cd
+ 1687  ls -s
+ 1688  ls -sh
+ 1689  ls -r
+ 1690  ls -R
+ 1691  man ls
+ 1692  ls -sh /usr/local/share/xml/schema/
+ 1693  ls
+ 1694  man ls
+ 1695  ls --sort=s
+ 1696  ls --sort=t
+ 1697  ls --sort=v
+ 1698  ls --sort=x
+ 1699  ls --sort=u
+ 1700  ls --sort=
+ 1701  u
+ 1702  ls --sort=U
+ 1703  ls --sort=u
+ 1704  ls --sort=-u
+ 1705  ls --sort=t
+ 1706  ls -s 
+ 1707  ls -S
+ 1708  ls -t
+ 1709  ls -u
+ 1710  man ls
+ 1711  ls -l
+ 1712  ;qn ls
+ 1713  man ls
+ 1714  ls -t
+ 1715  ls -l
+ 1716  ls -F
+ 1717  mkdir ttj/hh
+ 1718  man mkdir
+ 1719  mkdir -m 764 tett
+ 1720  ls -l
+ 1721  chmod go=u tett/
+ 1722  ls -l
+ 1723  man mkdir
+ 1724  head -n 15 /etc/hosts/
+ 1725  head -n 15 /etc/hosts
+ 1726  head -n 5
+ 1727  echo hello
+ 1728  echo "hhhhh\nyyyyyyy" > tre
+ 1729  cat tre
+ 1730  echo "hhhhh \n yyyyyyy" > tre
+ 1731  cat tre
+ 1732  echo hhhhh \n yyyyyyy > tre
+ 1733  cat tre
+ 1734  echo hhhhh \\n yyyyyyy > tre
+ 1735  cat tre
+ 1736  cp tre ./double
+ 1737  ls -sh tre double 
+ 1738  ls -sh tre;ls -sh double 
+ 1739  mv double int
+ 1740  ls Desktop/*
+ 1741  ps -xf
+ 1742  kill -l
+ 1743  kill -19 2490
+ 1744  kill -18 249
+ 1745  ps -xf
+ 1746  kill -19 6348
+ 1747  kill -1 6348
+ 1748  kill -18 6348
+ 1749  kill -l
+ 1750  ps -xf
+ 1751  kill -19 6370
+ 1752  kill -18 6370
+ 1753  kill -9 6370
+ 1754  xeyes
+ 1755  ps
+ 1756  gcc -o exe tets.c
+ 1757  ./exe
+ 1758  init 0
+ 1759  cd /etc/NetworkManager/system-connections/
+ 1760  ls -a
+ 1761  ls
+ 1762  sudo cat TNCAP30B6F2
+ 1763  sudo cat Auto\ TNCAP30B6F2 
+ 1764  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ;./exe > cmd.txt 
+ 1765  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ;./exe 
+ 1766  ./C3
+ 1767  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ;./exe 
+ 1768  ./C3
+ 1769  exit
+ 1770  ./SR3
+ 1771  gcc -o SR3 Server3.c -lpthread
+ 1772  gcc -o C3 Client3.c -lpthread
+ 1773  ./SR3
+ 1774  gcc -o SR3 Server3.c -lpthread
+ 1775  ./SR3
+ 1776  gcc -o SR3 Server3.c -lpthread
+ 1777  ./SR3
+ 1778  gcc -o SR3 Server3.c -lpthread
+ 1779  ./SR3
+ 1780  exit
+ 1781  ping facebook.com
+ 1782  ping 41.141.209.30
+ 1783  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system > cmd.txt 
+ 1784  echo g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system > cmd.txt 
+ 1785  su
+ 1786  exit
+ 1787  dk
+ 1788  cd SFML/
+ 1789  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system 
+ 1790  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ; ./exe
+ 1791  dk
+ 1792  gcc -o exe hello.c 
+ 1793  ./exe
+ 1794  dk
+ 1795  ./exe
+ 1796  cd SFML/
+ 1797  ls
+ 1798  g++ -o exe sf.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ; ./exe
+ 1799  inti 6
+ 1800  init 6
+ 1801  ls
+ 1802  cd android-studio/
+ 1803  ls
+ 1804  cd bin/
+ 1805  ls
+ 1806  ./studio.sh 
+ 1807  free -h
+ 1808  man free
+ 1809  java -ver
+ 1810  gedit .bashrc 
+ 1811  figlet fiverheros
+ 1812  gedit .bashrc 
+ 1813  ps -xf
+ 1814  kill -9 8507
+ 1815  kill -9 8557
+ 1816  ps -xf
+ 1817  kill -9 8503
+ 1818  ps -xf
+ 1819  kill -9 8307
+ 1820  exit
+ 1821  cd android-studio/
+ 1822  ls
+ 1823  cd bin/
+ 1824  ls
+ 1825  ./studio.sh 
+ 1826  ./studio.sh
+ 1827  init 0
+ 1828  ping 160.176.129.33
+ 1829  traceroute 160.176.129.33
+ 1830  sudo apt-get install tracroute
+ 1831  sudo apt-get install traceroute
+ 1832  traceroute 160.176.129.33
+ 1833  traceroute facebook.com
+ 1834  ping 160.176.129.33
+ 1835  ping 41.248.65.225
+ 1836  ping 160.176.129.33
+ 1837  g++ -o exe img.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ; ./exe
+ 1838  ping 105.158.224.243
+ 1839  g++ -o exe test.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ; ./exe
+ 1840  gcc `sdl-config --cflags --libs` -o exe image.c -lSDL -lSDL_image;./exe
+ 1841  g++ -o exe mouseevent.cpp  -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system ; ./exe
+ 1842  sudo apt-get install smplayer
+ 1843  smplayer 
+ 1844  how to fuck amine flifli
+ 1845  apt-get moo
+ 1846  NetworkManager restart
+ 1847  su
+ 1848  exit
+ 1849  ping 105.156.115.69
+ 1850  route -n
+ 1851  ping 41.248.65.225
+ 1852  sudo apt-get install open
+ 1853  nautilus .
+ 1854  apt-get install nautilus
+ 1855  sudo apt-get install nautilus
+ 1856  nautilus .
+ 1857  nautilus ./Desktop/
+ 1858  /etc/init.d/network-manager restart 
+ 1859  su
+ 1860  exit
+ 1861  ps -xf | grep java
+ 1862  kill -9 10541
+ 1863  ps -xf | grep java
+ 1864  kill -9 10543
+ 1865  kill -9 10457
+ 1866  ps -xf
+ 1867  ps -xf | grep java
+ 1868  kill -9 8207
+ 1869  kill -9 8109
+ 1870  ps -xf | grep java
+ 1871  kill -9 10726
+ 1872  kill -9 10642
+ 1873  ps -xf | grep java
+ 1874  kill -9 11030
+ 1875  ps -xf
+ 1876  ps -xf | grep java
+ 1877  kill -9 11201
+ 1878  ps -xf | grep java
+ 1879  kill -9 11341
+ 1880  ps -xf | grep java
+ 1881  kill -9 11450
+ 1882  su
+ 1883  cd Downloads/
+ 1884  ls
+ 1885  cp jeu_morpion.txt ../Desktop/
+ 1886  mv jeu_morpion.txt jeu_morpion.c
+ 1887  cd ../Desktop/s
+ 1888  cd ../Desktop/
+ 1889  mv jeu_morpion.txt jeu_morpion.c
+ 1890  dk
+ 1891  gcc -o exe jeu_morpion.cpp 
+ 1892  gcc -o exe jeu_morpion.cpp -std=c++11
+ 1893  g++ -o exe jeu_morpion.cpp
+ 1894  ./exe
+ 1895  dk
+ 1896  g++ -o exe jeu_morpion.cpp
+ 1897  ./exe
+ 1898  g++ -o exe jeu_morpion.cpp ; ./exe
+ 1899  dk
+ 1900  g++ -o exe jeu_morpion.cpp ; ./exe
+ 1901  g++ -o exe jeu_morpion.cpp 
+ 1902  ./exe
+ 1903  g++ -o exe jeu_morpion.cpp 
+ 1904  g++ -o exe jeu_morpion.cpp 
+ 1905  ./exe
+ 1906  g++ -o exe jeu_morpion.cpp 
+ 1907  ./exe
+ 1908  g++ -o exe jeu_morpion.cpp 
+ 1909  ./exe
+ 1910  g++ -o exe jeu_morpion.cpp 
+ 1911  ./exe
+ 1912  g++ -o exe jeu_morpion.cpp 
+ 1913  ./exe
+ 1914  g++ -o exe jeu_morpion.cpp 
+ 1915  ./exe
+ 1916  g++ -o exe jeu_morpion.cpp 
+ 1917  ./exe
+ 1918  g++ -o exe jeu_morpion.cpp 
+ 1919  ./exe
+ 1920  g++ -o exe jeu_morpion.cpp 
+ 1921  ./exe
+ 1922  g++ -o exe jeu_morpion.cpp 
+ 1923  ./exe
+ 1924  g++ -o exe jeu_morpion.cpp 
+ 1925  ./exe
+ 1926  g++ -o exe jeu_morpion.cpp 
+ 1927  ./exe
+ 1928  g++ -o exe jeu_morpion.cpp 
+ 1929  ./exe
+ 1930  g++ -o exe jeu_morpion.cpp 
+ 1931  ./exe
+ 1932  g++ -o exe jeu_morpion.cpp 
+ 1933  ./exe
+ 1934  g++ -o exe jeu_morpion.cpp 
+ 1935  ./exe
+ 1936  g++ -o exe jeu_morpion.cpp 
+ 1937  ./exe
+ 1938  su
+ 1939  dk
+ 1940  gcc -o exe test.c 
+ 1941  ./exe
+ 1942  gcc -o exe test.c 
+ 1943  ./exe
+ 1944  gcc -o exe test.c 
+ 1945  ./exe
+ 1946  gcc -o exe test.c 
+ 1947  ./exe
+ 1948  gcc -o exe test.c 
+ 1949  ./exe
+ 1950  gcc -o exe test.c 
+ 1951  ./exe
+ 1952  gcc -o exe test.c 
+ 1953  ./exe
+ 1954  gcc -o exe test.c 
+ 1955  ./exe
+ 1956  gcc -o exe test.c 
+ 1957  ./exe
+ 1958  gcc -o exe test.c 
+ 1959  ./exe
+ 1960  gcc -o exe test.c 
+ 1961  ./exe
+ 1962  gcc -o exe test.c 
+ 1963  ./exe
+ 1964  su
+ 1965  exit
+ 1966  init 0
+ 1967  arpn -a
+ 1968  arp -a
+ 1969  ifconfig 
+ 1970  arp -a
+ 1971  nano .bashrc 
+ 1972  exit
+ 1973  arp -a
+ 1974  ping 105.155.110.222
+ 1975  su
+ 1976  exit
+ 1977  su
+ 1978  init 6
+ 1979  free -h
+ 1980  df -h
+ 1981  free -h
+ 1982  ping 105.155.110.222
+ 1983  ping 160.178.162.21
+ 1984  ping 160.178.162.20
+ 1985  free -h
+ 1986  su
+ 1987  exit
+ 1988  free -h
+ 1989  sudo apt-get update 
+ 1990  sudo apt-get install screenfetch 
+ 1991  sudo apt-get upgrade 
+ 1992  sudo apt-get install toilet
+ 1993  toilet ilyase
+ 1994  man toilet 
+ 1995  shutdown -t 0
+ 1996  dk
+ 1997  cd Video/JDom/
+ 1998  ls
+ 1999  cat Edit\ document\ XML\ in\ JAVA-y8kNSCgfudc.mp4 
+ 2000  su
+ 2001  exit
+ 2002  su 
+ 2003  init 0
+ 2004  int i=0
+ 2005  $i=0
+ 2006  var $i=0
+ 2007  echo titit
+ 2008  exit
+ 2009  arp -a
+ 2010  ps -xf
+ 2011  ps -xf | java
+ 2012  ps -xf | grep java
+ 2013  kill -9 11986
+ 2014  ping 41.250.45.159
+ 2015  arp -a
+ 2016  ps -xf | grep java
+ 2017  kill -9 12674
+ 2018  gcc -o C3 Client3.c -lpthread
+ 2019  ./C3
+ 2020  ps -xf | grep java
+ 2021  kill -9 12311
+ 2022  ps -xf | grep java
+ 2023  kill 09 14156
+ 2024  gcc -o SR3 Server3.c -lpthread
+ 2025  ./SR3
+ 2026  ps -xf | grep java
+ 2027  kill -9 17519
+ 2028  echo 
+ 2029  echo 10
+ 2030  exit
+ 2031  script
+ 2032  su
+ 2033  ifconfig 
+ 2034  ping 192.168.0.119
+ 2035  ls
+ 2036  javac Main_Client.java 
+ 2037  java Main_Client
+ 2038  reboot
+ 2039  sudo apt-get install vim
+ 2040  vim testvi 
+ 2041  vi testvi 
+ 2042  vim testvi 
+ 2043  ps -xf | grep java
+ 2044  kill -9 7658
+ 2045  java Main_Server 
+ 2046  python
+ 2047  sudo apt-get upgrade python
+ 2048  dk
+ 2049  vi testvi 
+ 2050  py
+ 2051  python
+ 2052  dk
+ 2053  py t.py
+ 2054  py t.py 
+ 2055  python t.py 
+ 2056  python
+ 2057  python t.py 
+ 2058  java -version
+ 2059  screenfetch 
+ 2060  exit
+ 2061  mkdir -p ~/.mozzila/plugins
+ 2062  ln -s /opt/java/jdk1.8.0_121/jre/lib/amd64/libnpjp2.so ~/.mozzila/plugins/
+ 2063  sudo apt-get update 
+ 2064  chmod jdk-8u131-nb-8_2-linux-x64.sh 
+ 2065  chmod +x jdk-8u131-nb-8_2-linux-x64.sh 
+ 2066  ./jdk-8u131-nb-8_2-linux-x64.sh 
+ 2067  java -version
+ 2068  su
+ 2069  sudo apt-get update 
+ 2070  ls -a ~
+ 2071  exit
+ 2072  su
+ 2073  exit
+ 2074  ./netbeans 
+ 2075  ps -xf | grep java
+ 2076  kill -0 21734
+ 2077  kill -0 21793
+ 2078  ps -xf | grep java
+ 2079  kill -0 21734
+ 2080  kill -9 21734
+ 2081  ps -xf | grep java
+ 2082  kill -9 21932
+ 2083  ps -xf | grep java
+ 2084  kill -9 22252
+ 2085  ps -xf | grep java
+ 2086  kill -9 22377
+ 2087  su
+ 2088  init 0
+ 2089  dk
+ 2090  python t.py 
+ 2091  ps -xf | grep java
+ 2092  kill -9 6007
+ 2093  ps -xf | grep java
+ 2094  kill -9 6125
+ 2095  ps -xf | grep java
+ 2096  kill -9 7384
+ 2097  ps -xf | grep java
+ 2098  kill -9 7578
+ 2099  ps -xf | grep java
+ 2100  kill -9 7805
+ 2101  ps -xf | grep java
+ 2102  kill -9 7915
+ 2103  ps -xf | grep java
+ 2104  kill -9 8011
+ 2105  ps -xf | grep java
+ 2106  kill -9 8240
+ 2107  ps -xf | grep java
+ 2108  kill -9 8451
+ 2109  ps -xf | grep java
+ 2110  kill -9 8545
+ 2111  ps -xf | grep java
+ 2112  kill -9 8804
+ 2113  ps -xf | grep java
+ 2114  kill -9 9528
+ 2115  ps -xf | grep java
+ 2116  kill -9 9778
+ 2117  ps -xf | grep java
+ 2118  kill -9 9879
+ 2119  su
+ 2120  dk
+ 2121  python t.py 
+ 2122  exit
+ 2123  dk
+ 2124  python t.py 
+ 2125  python t2.py 
+ 2126  python
+ 2127  exit
+ 2128  screenfetch 
+ 2129  \f
+ 2130  history 
+ 2131  man at
+ 2132  at now+1 echo hello
+ 2133  dk
+ 2134  vim testvi 
+ 2135  exit
+ 2136  gedit .bashrc 
+ 2137  echo $debian_chroot
+ 2138  echo $PS1
+ 2139  PS1=\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\039[00m\] \[\033[01;34m\]\w \$\[\033[00m\]
+ 2140  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\039[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2141  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2142  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\032[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2143  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2144  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[03;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2145  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2146  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[09;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2147  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[09;20m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2148  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[09;50m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2149  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[09;10m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2150  PS1="\[\e]0;\u@\h \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w \$\[\033[00m\]"
+ 2151  exit
+ 2152  chdir Desktop/
+ 2153  chroot Desktop/
+ 2154  man chroot 
+ 2155  man chdir
+ 2156  chdir Desktop/
+ 2157  man
+ 2158  man man
+ 2159  exit
+ 2160  sudo apt-get install putty
+ 2161  putty
+ 2162  telnet
+ 2163  sudo apt-get install telnet
+ 2164  ping 192.168.0.119
+ 2165  ping 8.8.8.8
+ 2166  find / telnet
+ 2167  find / -type d -name telnet
+ 2168  telnet 192.168.0.183
+ 2169  ping 192.168.0.183
+ 2170  ping 192.168.0.112
+ 2171  telnet 192.168.0.112
+ 2172  putty
+ 2173  telnet 192.168.0.112
+ 2174  putty
+ 2175  telnet 192.168.0.113
+ 2176  telnet 192.168.0.112
+ 2177  ps -xf
+ 2178  ps -xf | grep chrome
+ 2179  kill -9 9942
+ 2180  ps -xf | grep chrome
+ 2181  exit
+ 2182  sudo apt-get upgrade 
+ 2183  sudo apt-get dist-upgrade
+ 2184  exit
+ 2185  dk
+ 2186  cd python/
+ 2187  ls
+ 2188  python t.py 
+ 2189  su
+ 2190  java -version
+ 2191  sudo apt-get dist-upgrade 
+ 2192  sudo apt-get at
+ 2193  sudo apt-get install at
+ 2194  crontab -l
+ 2195  su
+ 2196  crontab -e
+ 2197  crontab -l
+ 2198  update-rc.d cron defaults
+ 2199  su
+ 2200  exit
+ 2201  su
+ 2202  exit
+ 2203  ifconfig 
+ 2204  telnet 192.168.1.8
+ 2205  exit
+ 2206  ps -xf | grep chrome
+ 2207  kill -9 4255
+ 2208  ps -xf | grep chrome
+ 2209  kill -9 4033
+ 2210  ps -xf | grep chrome
+ 2211  kill -9 4063
+ 2212  ps -xf | grep chrome
+ 2213  kill -9 4063
+ 2214  kill -9 7674
+ 2215  ps -xf | grep chrome
+ 2216  exit
+ 2217  ps -xf | grep chrome
+ 2218  init 6
+ 2219  crontab -l
+ 2220  crontab -e
+ 2221  crontab -l
+ 2222  exit
+ 2223  telnet 192.168.1.13
+ 2224  ifconfig 
+ 2225  telnet 192.168.1.13
+ 2226  ext
+ 2227  exit
+ 2228  ifconfig 
+ 2229  telnet 192.168.1.1
+ 2230  ps -xf | grep chrome
+ 2231  kill -9 7146
+ 2232  exit
+ 2233  exit
+ 2234  su
+ 2235  exit
+ 2236  px -xf | grep Centos
+ 2237  ps -xf | grep Centos
+ 2238  kill -9 12605
+ 2239  ps -xf
+ 2240  kill -9 10774
+ 2241  ps -xf
+ 2242  kill -9 11661
+ 2243  ./test.sh 
+ 2244  ll
+ 2245  ll /etc/init.d/
+ 2246  su
+ 2247  /etc/init.d/test.sh restart
+ 2248  cd /etc/init.d/
+ 2249  update-rc test.sh defaults
+ 2250  update-rc.d test.sh defaults
+ 2251  su
+ 2252  exit
+ 2253  ps -xf | grep conky
+ 2254  kill -9 2128
+ 2255  su
+ 2256  x
+ 2257  apt-get update 
+ 2258  sud apt-get update 
+ 2259  sudo apt-get update 
+ 2260  x
+ 2261  malmok
+ 2262  v
+ 2263  upd
+ 2264  x
+ 2265  su
+ 2266  x
+ 2267  su
+ 2268  x
+ 2269  su
+ 2270  x
+ 2271  printf "hello"
+ 2272  printf "hello\n"
+ 2273  printf "hello %d \n",5
+ 2274  printf "hello %d ",5
+ 2275  printf "hello %d ",5\n
+ 2276  printf "hello %d ,5\n"
+ 2277  printf "hello %d ,5\n" $10
+ 2278  fuck echo hello
+ 2279  x
+ 2280  su
+ 2281  ifconfig
+ 2282  8.8.8.8
+ 2283  ping 8.8.8.8
+ 2284  x
+ 2285  fuck add-apt-repository ppa:gns3/ppa
+ 2286  fuck apt-get update
+ 2287  sudo apt-get install gns3-gui
+ 2288  gns3
+ 2289  ps -xf | grep conky
+ 2290  kill -9 2487
+ 2291  x
+ 2292  sudo gns3
+ 2293  gns3
+ 2294  kill 5414
+ 2295  gns3
+ 2296  sudo apt-get remove gns3-*
+ 2297  sudo apt-get install gns3-server 
+ 2298  sudo apt-get install gns3-gui 
+ 2299  gns3
+ 2300  int 0
+ 2301  int 6
+ 2302  int 7
+ 2303  int 6
+ 2304  int 4
+ 2305  init 0
+ 2306  su
+ 2307  x
+ 2308  r
+ 2309  python
+ 2310  x
+ 2311  python
+ 2312  x
+ 2313  . .bashrc 
+ 2314  ls
+ 2315  x
+ 2316  dk
+ 2317  vim testvi 
+ 2318  . .bashrc 
+ 2319  cd
+ 2320  . .bashrc 
+ 2321  chvt 2
+ 2322  chvt 1
+ 2323  chvt 4
+ 2324  chvt tty1
+ 2325  man chvt
+ 2326  man chvt 1
+ 2327  chvt 1
+ 2328  chvt N 1
+ 2329  chvt  1
+ 2330  chvt  7
+ 2331  chvt  8
+ 2332  chvt  0
+ 2333  x
+ 2334  javac Main_Server.java
+ 2335  java Main_Server
+ 2336  java Main_Server Monthread
+ 2337  java *.class
+ 2338  javac ChatApp.java 
+ 2339  javac *.java 
+ 2340  java ChatApp 
+ 2341  javac *.java 
+ 2342  java ChatApp 
+ 2343  pwd
+ 2344  x
+ 2345  ifconfig 
+ 2346  ps -xf
+ 2347  chvt 1
+ 2348  chcpu 2
+ 2349  x
+ 2350  init 8
+ 2351  init 5
+ 2352  init 6
+ 2353  dk
+ 2354  pwd
+ 2355  chvt 1
+ 2356  chvty 1
+ 2357  man chvt
+ 2358  x
+ 2359  r
+ 2360  youtube-dl -F "https://www.youtube.com/watch?v=42tFcFFkk-w"
+ 2361  youtube-dl -f 18 "https://www.youtube.com/watch?v=42tFcFFkk-w"
+ 2362  youtube-dl -f 18 "https://www.youtube.com/watch?v=Ot7nkkq9kpQ"
+ 2363  youtube-dl -f 18 "https://www.youtube.com/watch?v=vYCFpobn-uk"
+ 2364  su
+ 2365  x
+ 2366  su
+ 2367  x
+ 2368  ping 41.141.105.139
+ 2369  ifconfig 
+ 2370  ping 41.141.105.139
+ 2371  apt-get install open
+ 2372  sudo apt-get install open
+ 2373  x
+ 2374  su
+ 2375  x
+ 2376  su
+ 2377  x
+ 2378  su
+ 2379  x
+ 2380  su
+ 2381  x
+ 2382  su
+ 2383  rootq
+ 2384  su
+ 2385  x
+ 2386  xqmp start
+ 2387  xamp start
+ 2388  su
+ 2389  x
+ 2390  setkbmap fr
+ 2391  setxkbmap fr
+ 2392  setxkbmap us
+ 2393  x
+ 2394  su
+ 2395  x
+ 2396  su
+ 2397  x
+ 2398  su
+ 2399  x
+ 2400  ping 105.158.104.21
+ 2401  x
+ 2402  su
+ 2403  x
+ 2404  su
+ 2405  x
+ 2406  gns3
+ 2407  su
+ 2408  x
+ 2409  su
+ 2410  init 0
+ 2411  su
+ 2412  x
+ 2413  u
+ 2414  su
+ 2415  x
+ 2416  su
+ 2417  x
+ 2418  ll
+ 2419  rm -r AppStage/
+ 2420  su
+ 2421  xampp start
+ 2422  su
+ 2423  xampp start
+ 2424  ll /opt/lampp/xampp 
+ 2425  xampp start
+ 2426  su
+ 2427  xampp start
+ 2428  su
+ 2429  x
+ 2430  su
+ 2431  x
+ 2432  touch app
+ 2433  cat AppSatge.sql > app 
+ 2434  mv app app.txt
+ 2435  x
+ 2436  su
+ 2437  x
+ 2438  su
+ 2439  init 0
+ 2440  su
+ 2441  x
+ 2442  su
+ 2443  x
+ 2444  ping 192.168.1.1
+ 2445  x
+ 2446  su
+ 2447  x
+ 2448  su
+ 2449  x
+ 2450  su
+ 2451  x
+ 2452  su
+ 2453  x
+ 2454  su
+ 2455  x
+ 2456  ping 192.168.1.16
+ 2457  ifconfig 
+ 2458  ifconfig virbr0 192.168.1.20 netmask 255.255.255.0
+ 2459  sudo ifconfig virbr0 192.168.1.20 netmask 255.255.255.0
+ 2460  ifconfig 
+ 2461  ping 192.168.1.16
+ 2462  ping 192.168.1.15
+ 2463  ping 192.168.1.20
+ 2464  ping 192.168.1.1
+ 2465  x
+ 2466  gns3
+ 2467  x
+ 2468  ifconfig 
+ 2469  vibro-nic up
+ 2470  ifconfig vibro-nic up
+ 2471  ifconfig virbro-nic up
+ 2472  ifconfig virbr0-nic up
+ 2473  sudo ifconfig virbr0-nic up
+ 2474  ifconfig 
+ 2475  sudo ifconfig virbr0-nic 192.168.1.21 netmask 255.255.255.0
+ 2476  ifconfig 
+ 2477  x
+ 2478  sudo ifconfig virbr0-nic 192.168.2.20 netmask 255.255.255.0
+ 2479  ifconfig 
+ 2480  x
+ 2481  ifconfig 
+ 2482  sudo ifconfig virbr0-nic 192.168.1.21 netmask 255.255.255.0
+ 2483  sudo ifconfig virbr0-nic 192.168.2.20 netmask 255.255.255.0
+ 2484  ifconfig 
+ 2485  gns3&
+ 2486  ifconfig 
+ 2487  sudo ifconfig virbr0 192.168.2.20 netmask 255.255.255.0
+ 2488  sudo ifconfig virbr0-nic 192.168.1.20 netmask 255.255.255.0
+ 2489  ifconfig 
+ 2490  gns3
+ 2491  gns3& > /dev/null 
+ 2492  ifconfig 
+ 2493  ifconfig 
+ 2494  gns3
+ 2495  ifconfig 
+ 2496  su
+ 2497  x
+ 2498  su
+ 2499  sudo ifconfig virbr0-nic 192.168.1.20 netmask 255.255.255.0
+ 2500  sudo ifconfig virbr0 192.168.2.20 netmask 255.255.255.0
+ 2501  ifconfig 
+ 2502  gns3
+ 2503  su
+ 2504  x
+ 2505  su
+ 2506  x
+ 2507  sudo ifconfig virbr0 192.168.2.20 netmask 255.255.255.0
+ 2508  sudo ifconfig virbr0-nic 192.168.1.20 netmask 255.255.255.0
+ 2509  gns3
+ 2510  init 6
+ 2511  su
+ 2512  x
+ 2513  ps -xf
+ 2514  ps -xf | grep scene
+ 2515  kill -9 7704
+ 2516  ps -xf | 
+ 2517  ps -xf | grep netbeans
+ 2518  kill -9 7713
+ 2519  su
+ 2520  gns3
+ 2521  su
+ 2522  gns3
+ 2523  ps -xf
+ 2524  kill -9 2842
+ 2525  ps -xf
+ 2526  kill -9 6106
+ 2527  ps -xf
+ 2528  kill -9 4348
+ 2529  su
+ 2530  x
+ 2531  su
+ 2532  sudo ifconfig virbr0 192.168.2.20 netmask 255.255.255.0
+ 2533  sudo ifconfig virbr0-nic 192.168.1.20 netmask 255.255.255.0
+ 2534  x
+ 2535  su
+ 2536  ifconfig 
+ 2537  x
+ 2538  sudo ifconfig virbr0-nic 192.168.1.20 netmask 255.255.255.0
+ 2539  sudo ifconfig virbr0 192.168.2.20 netmask 255.255.255.0
+ 2540  ifconfig 
+ 2541  su
+ 2542  x
+ 2543  gns3
+ 2544  init 0
+ 2545  gcc -o exe c.c
+ 2546  ./exe
+ 2547  gcc -o exe c.c
+ 2548  ./exe
+ 2549  gcc -o exe c.c
+ 2550  ./exe
+ 2551  gcc -o exe c.c
+ 2552  ./exe
+ 2553  gcc -o exe c.c
+ 2554  ./exe
+ 2555  gcc -o exe c.c
+ 2556  ./exe
+ 2557  gcc -o exe c.c
+ 2558  ./exe
+ 2559  gcc -o exe c.c
+ 2560  ./exe
+ 2561  gcc -o exe c.c
+ 2562  ./exe
+ 2563  gcc -o exe c.c
+ 2564  ./exe
+ 2565  gcc -o exe c.c
+ 2566  ./exe
+ 2567  gcc -o exe c.c
+ 2568  ./exe
+ 2569  gcc -o exe c.c
+ 2570  ./exe
+ 2571  d
+ 2572  dk
+ 2573  gcc -o exe c.c
+ 2574  ./exe
+ 2575  gcc -o exe c.c
+ 2576  ./exe
+ 2577  gcc -o exe c.c
+ 2578  ./exe
+ 2579  su
+ 2580  x
+ 2581  su
+ 2582  x
+ 2583  su
+ 2584  apt-get update
+ 2585  apt-get uppdate
+ 2586  apt-get update 
+ 2587  sudo apt-get update 
+ 2588  sudo apt-get upgrade 
+ 2589  sudo apt-get upgrade-dist 
+ 2590  sudo apt-get dist-upgrade 
+ 2591  su
+ 2592  x
+ 2593  su
+ 2594  x
+ 2595  su
+ 2596  x
+ 2597  su
+ 2598  x
+ 2599  su
+ 2600  ll
+ 2601  rm *
+ 2602  ll
+ 2603  sudo chmod -R 777 *
+ 2604  chmod -R 777 *
+ 2605  ll
+ 2606  chmod -R 777 *
+ 2607  ll
+ 2608  rm *
+ 2609  sudo rm *
+ 2610  chmod -R 777 *
+ 2611  sudo chmod -R 777 *
+ 2612  chmod -Rf 777 *
+ 2613  ll
+ 2614  chmod -Rf 777 *
+ 2615  ll
+ 2616  sudo rm -f *
+ 2617  umount /dev/sdb1 /mnt/usb1
+ 2618  umount /dev/sdc1 /mnt/usb1/
+ 2619  x
+ 2620  cd android-studio/
+ 2621  ls
+ 2622  cd bin/
+ 2623  ls
+ 2624  ./studio.sh 
+ 2625  x
+ 2626  umount /dev/sdb1 /mnt/usb1/
+ 2627  reboot
+ 2628  x
+ 2629  gparted
+ 2630  su
+ 2631  x
+ 2632  ll
+ 2633  useradd
+ 2634  su
+ 2635  su - test
+ 2636  x
+ 2637  dk
+ 2638  gcc -o exe arg.c 
+ 2639  ./exe
+ 2640  gcc -o exe arg.c
+ 2641  ./exe
+ 2642  ./exe 1 2 hello
+ 2643  man exe
+ 2644  man exec
+ 2645  ./exe 1 2 hello
+ 2646  ps
+ 2647  vlc &
+ 2648  vlc&
+ 2649  ps
+ 2650  ps -f
+ 2651  ps -xf
+ 2652  cd 
+ 2653  figelt hh
+ 2654  toilet hh
+ 2655  toilet loubna
+ 2656  x
+ 2657  gcc -o exe slide3.c 
+ 2658  ./exe
+ 2659  ps -f
+ 2660  ./exe
+ 2661  gcc -o exe slide3.c 
+ 2662  ./exe
+ 2663  gcc -o exe slide3.c 
+ 2664  ./exe ps
+ 2665  ./exe ls
+ 2666  ls
+ 2667  ./exe ls
+ 2668  ./exe xx
+ 2669  ./exe pwd
+ 2670  ./exe wc
+ 2671  who
+ 2672  ./exe who
+ 2673  x
+ 2674  su
+ 2675  x
+ 2676  su
+ 2677  x
+ 2678  su
+ 2679  x
+ 2680  su
+ 2681  x
+ 2682  setxkbmap fr
+ 2683  setxkbmap us
+ 2684  x
+ 2685  cd android-studio/
+ 2686  ll
+ 2687  cd bin/
+ 2688  ll
+ 2689  pwd
+ 2690  x
+ 2691  su
+ 2692  x
+ 2693  studio
+ 2694  sudo apt-get update
+ 2695  studio.sh
+ 2696  x
+ 2697  studio.sh
+ 2698  su
+ 2699  studio.sh
+ 2700  cd android-studio/
+ 2701  cd bin/
+ 2702  ./studio.sh 
+ 2703  dk
+ 2704  gcc -o exe ok.c 
+ 2705  ./exe
+ 2706  dk
+ 2707  gcc -o exe ok.c 
+ 2708  ./exe
+ 2709  x
+ 2710  ping 8.8.8.8
+ 2711  x
+ 2712  ll
+ 2713  chmod 777 Oracle_VM_VirtualBox_Extension_Pack-5.1.22-115126.vbox-extpack 
+ 2714  ll
+ 2715  ./Oracle_VM_VirtualBox_Extension_Pack-5.1.22-115126.vbox-extpack 
+ 2716  ./Oracle_VM_VirtualBox_Extension_Pack-5.1.22-115126.vbox-extpack*
+ 2717  sudo 
+ 2718  sudo sudo usermod -a -G vboxusers $USER
+ 2719  x
+ 2720  init 0
+ 2721  ping 192.168.1.1
+ 2722  x
+ 2723  sudo apt-get update
+ 2724  sudo apt-get upgrade 
+ 2725  sudo apt-get update
+ 2726  sudo apt-get upgrade 
+ 2727  screenfetch 
+ 2728  xampp start
+ 2729  sudo xampp start
+ 2730  su
+ 2731  x
+ 2732  type x
+ 2733  x
+ 2734  pwd
+ 2735  su
+ 2736  touch bd.c
+ 2737  vim bd.c 
+ 2738  gcc -o exe bd.c 
+ 2739  vim bd.c 
+ 2740  gcc -o exe bd.c 
+ 2741  vim bd.c 
+ 2742  gcc -o exe bd.c 
+ 2743  vim bd.c 
+ 2744  gcc -o exe bd.c 
+ 2745  vim bd.c 
+ 2746  gcc -o exe bd.c 
+ 2747  vim bd.c 
+ 2748  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2749  ./exe
+ 2750  vim bd.c 
+ 2751  ./exe
+ 2752  vim bd.c 
+ 2753  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2754  ./exe
+ 2755  free -h
+ 2756  logout
+ 2757  free -h
+ 2758  ps -xf
+ 2759  kill -9 4944
+ 2760  ps -xf
+ 2761  sudo apt-get update 
+ 2762  sudo apt-get dist-upgrade 
+ 2763  sudo apt-get upgrade 
+ 2764  sudo apt-get update 
+ 2765  ps -xf
+ 2766  kill -9 2891
+ 2767  ping 105.155.106.128
+ 2768  dk
+ 2769  vim bd.c
+ 2770  ll
+ 2771  ping 105.155.106.128
+ 2772  gufu
+ 2773  gufw
+ 2774  ps -xf
+ 2775  kill -9 2358
+ 2776  ifconfig 
+ 2777  genymotion/
+ 2778  cd genymotion/
+ 2779  ll
+ 2780  ./genymotion
+ 2781  ./genymotion &
+ 2782  ll
+ 2783  ./genymotion-2.9.0-linux_x64.bin --uninstall
+ 2784  su
+ 2785  dk
+ 2786  vim bd.c 
+ 2787  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2788  vim bd.c 
+ 2789  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2790  ./exe
+ 2791  dk
+ 2792  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2793  ./exe
+ 2794  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2795  ./exe
+ 2796  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2797  ./exe
+ 2798  dk
+ 2799  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2800  dk
+ 2801  ./exe
+ 2802  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2803  ./exe
+ 2804  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2805  ./exe
+ 2806  gparted
+ 2807  su
+ 2808  dk
+ 2809  vim bd.c 
+ 2810  gcc -o exe bd.c `mysql_config --cflags --libs`
+ 2811  ./exe
+ 2812  su
+ 2813  x
+ 2814  su
+ 2815  x
+ 2816  gcc -o c Client.c 
+ 2817  ./c
+ 2818  gcc -o s Server.c 
+ 2819  ./s
+ 2820  ping 173.44.34.14
+ 2821  sync; echo 1 > /proc/sys/vm/drop_caches
+ 2822  sudo sync; echo 1 > /proc/sys/vm/drop_caches
+ 2823  su
+ 2824  x
+ 2825  free -h
+ 2826  alias is_charifa_love_me='no she hate u baka'
+ 2827  is_charifa_love_me
+ 2828  alias is_charifa_love_me='echo no she hate u baka'
+ 2829  is_charifa_love_me
+ 2830  ./first.sh 
+ 2831  w
+ 2832  touch first.sh
+ 2833  vim first.sh 
+ 2834  sudo +x first.sh 
+ 2835  chmod +x first.sh 
+ 2836  ./first.sh 
+ 2837  vim first.sh 
+ 2838  ./first.sh 
+ 2839  vim first.sh 
+ 2840  ./first.sh 
+ 2841  vim first.sh 
+ 2842  ./first.sh 
+ 2843  vim first.sh 
+ 2844  ./first.sh 
+ 2845  vim first.sh 
+ 2846  ./first.sh 
+ 2847  vim first.sh 
+ 2848  printf "hello %d" 5
+ 2849  printf "hello %d\n" 5
+ 2850  printf("hello %d\n",5)
+ 2851  printf("hello %d\n",5);
+ 2852  printf "hello %d\n",5;
+ 2853  printf "hello %d\n" 5;
+ 2854  printf "hello %d\n" 5 , "ok"
+ 2855  ll genymotion-2.10.0-linux_x64.bin 
+ 2856  chmod +x genymotion-2.10.0-linux_x64.bin 
+ 2857  ./genymotion-2.10.0-linux_x64.bin 
+ 2858  mv genymotion-2.10.0-linux_x64.bin ..
+ 2859  cd ..
+ 2860  ./genymotion-2.10.0-linux_x64.bin 
+ 2861  ./genymotion --uninstall
+ 2862  ./genymotion-2.10.0-linux_x64.bin --uninstall
+ 2863  su
+ 2864  ./read.sh 
+ 2865  echo (2+5)
+ 2866  echo $(2+5)
+ 2867  echo $((2+5))
+ 2868  echo $((2))
+ 2869  echo $(2)
+ 2870  echo $(ls)
+ 2871  echo $ls
+ 2872  echo ls
+ 2873  echo $((2+5)+1)
+ 2874  ls
+ 2875  echo (ls)
+ 2876  echo $(ls)
+ 2877  echo $(who)
+ 2878  echo $((2+5-1))
+ 2879  echo $(((1+5)*2))
+ 2880  echo $((*2(1+5)))
+ 2881  echo $((2*(1+5)))
+ 2882  ./read.sh 
+ 2883  chmod +x read.sh 
+ 2884  vim read.sh 
+ 2885  su
+ 2886  x
+ 2887  telnet 192.168.1.1
+ 2888  x
+ 2889  telnet 192.168.1.1
+ 2890  su
+ 2891  x
+ 2892  su
+ 2893  x
+ 2894  sudo apt-get update 
+ 2895  sudo apt-get upgrade 
+ 2896  sudo apt-get dist-upgrade 
+ 2897  sudo apt-get update 
+ 2898  dk
+ 2899  g++ -o exe kr.c++ 
+ 2900  g++ -o exe kr.c++  -std=c++11
+ 2901  ./exe
+ 2902  g++ -o exe kr.c++  -std=c++11
+ 2903  ./exe
+ 2904  reset
+ 2905  g++ -o exe kr.c++  -std=c++11
+ 2906  ./exe
+ 2907  g++ -o exe kr.c++  -std=c++11
+ 2908  ./exe
+ 2909  g++ -o exe kr.c++  -std=c++11
+ 2910  ./exe
+ 2911  dk
+ 2912  vim kr.txt 
+ 2913  mv kr.txt kr.c++
+ 2914  vim kr.c++ 
+ 2915  exit
+ 2916  su
+ 2917  x
+ 2918  su
+ 2919  x
+ 2920  su
+ 2921  x
+ 2922  setxkbmap fr
+ 2923  setxkbmap us
+ 2924  init 0
+ 2925  gparted
+ 2926  sudo gparted
+ 2927  su
+ 2928  x
+ 2929  ps -xf
+ 2930  kill -9 6203
+ 2931  exit
+ 2932  int 6
+ 2933  init 6
+ 2934  su
+ 2935  x
+ 2936  su
+ 2937  x
+ 2938  arp
+ 2939  arp -a
+ 2940  ifconfig 
+ 2941  arp -a
+ 2942  dk
+ 2943  ll
+ 2944  vim testvi 
+ 2945  vim test2.c 
+ 2946  init 0
+ 2947  reaver
+ 2948  x
+ 2949  type alias
+ 2950  x
+ 2951  init 6
+ 2952  man youtube-dl 
+ 2953  youtube-dl -F "https://www.youtube.com/watch?v=byV_elXt0ZM&list=PLMYF6NkLrdN8cn_nUolvhrGOOLIBybEsw"
+ 2954  youtube-dl -F "https://www.youtube.com/watch?v=byV_elXt0ZM&list=PL7_1lBXQE8vrizaAK7E2oXZl7JKDOB-_v"
+ 2955  youtube-dl -F "https://www.youtube.com/playlist?list=PLMYF6NkLrdN8cn_nUolvhrGOOLIBybEsw"
+ 2956  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN8cn_nUolvhrGOOLIBybEsw"
+ 2957  sudo apt-get install youtube-dl 
+ 2958  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PLMYF6NkLrdN8cn_nUolvhrGOOLIBybEsw"
+ 2959  ps -xf
+ 2960  ll
+ 2961  cd Templates/
+ 2962  youtube-dl -F "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2963  youtube-dl -f "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2964  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2965  sudo apt-get remove youtube-dl 
+ 2966  sudo apt-get install youtube-dl 
+ 2967  youtube-dl -F "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2968  cd Templates/
+ 2969  youtube-dl -F "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2970  sudo apt-get remove youtube-dl -y
+ 2971  sudo apt-get install youtube-dl -y
+ 2972  youtube-dl -f 18 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2973  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2974  sudo apt-get remove youtube-dl -y
+ 2975  sudo apt-get install youtube-dl -y
+ 2976  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2977  cd Templates/
+ 2978  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2979  sudo apt-get remove youtube-dl -y
+ 2980  sudo apt-get install youtube-dl -y
+ 2981  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2982  cd Templates/
+ 2983  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2984  sudo apt-get update 
+ 2985  sudo apt-get upgrade 
+ 2986  sudo apt-get dist-upgrade 
+ 2987  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2988  reboot
+ 2989  init 6
+ 2990  cd
+ 2991  init 6
+ 2992  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2993  x
+ 2994  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 2995  ifconfig 
+ 2996  ll
+ 2997  chmod 711 archlinux-2017.10.01-x86_64.iso 
+ 2998  ll
+ 2999  youtube-dl -f 22 "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 3000  youtube-dl -F "https://www.youtube.com/playlist?list=PL7VN7OBi_bOO0I3nYn7VqrMws0wLrQtdx"
+ 3001  exit
+ 3002  history 
+ 3003  su
+ 3004  x
+ 3005  sudo apt-get dist-upgrade 
+ 3006  sudo apt-get update 
+ 3007  sudo apt-get dist-upgrade 
+ 3008  sudo apt-get upgrade
+ 3009  sudo apt-get update 
+ 3010  youtube-dl -F "https://www.youtube.com/watch?v=n7cCVkfIAHk"
+ 3011  apt-get autoremove youtube-dl 
+ 3012  sudo apt-get autoremove youtube-dl 
+ 3013  sudo apt-get install youtube-dl 
+ 3014  youtube-dl -F "https://www.youtube.com/watch?v=n7cCVkfIAHk"
+ 3015  x
+ 3016  cd /opt/lampp/htdocs/
+ 3017  ll
+ 3018  ch mytest/
+ 3019  cd mytest/
+ 3020  ll
+ 3021  touch test3.php
+ 3022  su
+ 3023  x
+ 3024  su
+ 3025  x
+ 3026  init 0
+ 3027  su
+ 3028  nano
+ 3029  init 0
+ 3030  su
+ 3031  x
+ 3032  touch c.c
+ 3033  vim c.c 
+ 3034  gcc -o exe c.c 
+ 3035  ./exe
+ 3036  gcc -o exe c.c 
+ 3037  su
+ 3038  x
+ 3039  su
+ 3040  x
+ 3041  su
+ 3042  x
+ 3043  cd /etc/NetworkManager/system-connections/
+ 3044  ll
+ 3045  cat TNCAPCFFC90
+ 3046  ll
+ 3047  cat TNCAPCFFC90
+ 3048  su
+ 3049  python
+ 3050  su
+ 3051  x
+ 3052  vim test.txt 
+ 3053  x
+ 3054  su
+ 3055  x
+ 3056  su
+ 3057  x
+ 3058  pwd
+ 3059  su
+ 3060  x
+ 3061  gcc `sdl-config --cflags --libs` -o exe image.c -lSDL -lSDL_image
+ 3062  ./exe
+ 3063  history | grep Gtk
+ 3064  history |less | grep Gtk
+ 3065  history > cmdhist

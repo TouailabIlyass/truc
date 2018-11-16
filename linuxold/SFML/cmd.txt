@@ -1,0 +1,1 @@
+g++ -o exe sf.cpp -Llib/sfml/lib -lsfml-graphics -lsfml-window -lsfml-system

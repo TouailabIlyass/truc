@@ -1,0 +1,81 @@
+set timeout:
+in config-line 
+	exec-timeout m s
+	no exec-timeout or exec-timeout 0 0 for disable timeout
+  	logging synchronous
+  	no privilege level 15
+in conf:
+	ip domain-lookup
+	service password-encryption for encry 7 (no)
+	enable secret for md5
+	username xxx secret or (password) xxx for create user with passwd md5
+	username xx privilege X secret xxx
+
+in en:
+	show ip int b
+	show run
+	show clock
+	show sessions
+	show users == who
+	show ip protoclos
+	copy run start or (tftp)
+	show int xxx
+	show cdp
+	show cdp neighbor
+	show cdp entry xx
+	no cdp run
+	no cdp enable (in int)
+	clear cdp table
+	cdp timer xx
+	cdp holdtime xx
+	show ip route
+	clear ip route *
+	clear ip ospf process
+	debug ip rip|ospf
+	undebug all
+	show key chain
+	show ip ospf neighbor
+	show ip ospf database
+	show ip ospf interface
+
+ 
+
+
+=>static route
+R1(config)#ip route ip mask next hop ip or exit interface
+
+=>rip
+rip v1 send broadcast | v2 send multicast | default v1 et v2 | send default every 30s| 180 propably down | 4m delete from table| timers basic 30 180 180 240
+=> rip auth
+R1(config)#key chain CHAIN1
+			key 1
+			key-string cle
+			accept-lifetime
+			send-lifetime
+in interface:
+(config-if)#ip rip authentication key-chain cle
+			ip rip auth mode (default text)
+
+
+
+=>ospf
+R(config-if)#ip ospf hello-interval
+			  ip ospf priority
+			  ip ospf 1 area 0
+			  ip ospf cost xx
+			  ip ospf authentication <cr|null|message-digest>(default clear text)
+			  <message digest> ip ospf message-digest-key key md5 cle (max 16)
+			  ip ospf authentication-key cle (max 8)
+!ospf authentication:
+1-null type 0
+2-clear text type 1
+3-MD5 type 2			  
+
+R(config-router)#router-id x.x.x.x
+				area 0 authentication (for specify auth to all interface but we must specify the key in int)
+
+how to build routing table:
+1-the longest prefix match
+2-the lowest AD
+3-the lowest metric
+4-equal cost load balance

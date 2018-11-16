@@ -1,0 +1,168 @@
+http://www.igli5.com/2013/10/blog-post_4547.html
+
+
+http://www.igli5.com/2014/08/blog-post_6.html  
+
+http://www.igli5.com/2013/10/blog-post_22.html  face
+
+http://adf.ly/ZGPh0  cover
+
+http://www.igli5.com/2013/10/blog-post_1630.html ip
+
+http://www.igli5.com/2014/12/blog-post.html  aflam
+
+
+http://www.igli5.com/2014/08/4.html jeux
+
+http://www.igli5.com/2014/01/68.html  scan
+
+http://www.igli5.com/2014/10/clean-master.html
+
+http://www.igli5.com/2015/01/5-0-lollipop.html lolipop
+
+http://goo.gl/0erKjk virtuel boxe
+
+http://goo.gl/8vsM7S   az screnn recorder
+
+http://goo.gl/dkYHNK police
+
+http://www.th3professional.com/2015/01/Executed-Programs-List-in-windows.html police
+Routage :
+026073150
+Numéro 
+8114090394
+
+http://ftp.halifax.rwth-aachen.de/backtrack/BT5R3-GNOME-32.iso  BACK
+
+
+http://www.igli5.com/2013/10/blog-post_5808.html proxy net 
+
+set path=%path%;
+ilias@-@-:pay
+&çç(@-ilias
+ilias123456ILIL
+ilias0649460498
+0649460498|8549607|4633 cih
+11058947
+0666-085192 i.touailab7
+new.teck95@gmail.com
+
+https://www.youtube.com/watch?v=Wrd6JkO4-30 add me fast
+-------------------------
+
+
+mysql> create database courstd1 character set 'utf8';
+Query OK, 1 row affected (0.00 sec)
+
+mysql> use elevage2
+Database changed
+mysql> CREATE TABLE ilyase(
+    -> id SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+    -> espece VARCHAR(40) NOT NULL,
+    -> sexe CHAR(1),
+    -> date_naissance DATETIME NOT NULL,
+    -> nom VARCHAR(30),
+    -> commentaires TEXT,
+    -> PRIMARY KEY (id)
+    -> )
+    -> ENGINE INNODB;
+Query OK, 0 rows affected (1.17 sec)
+
+mysql> show tables
+    -> show tables;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that
+corresponds to your MySQL server version for the right syntax to use near 'show
+tables' at line 2
+mysql> show tables;
++--------------------+
+| Tables_in_elevage2 |
++--------------------+
+| ilyase             |
++--------------------+
+1 row in set (0.09 sec)
+
+mysql> DESCRIBE ilyase;
++----------------+----------------------+------+-----+---------+----------------
++
+| Field          | Type                 | Null | Key | Default | Extra
+|
++----------------+----------------------+------+-----+---------+----------------
++
+| id             | smallint(5) unsigned | NO   | PRI | NULL    | auto_increment
+|
+| espece         | varchar(40)          | NO   |     | NULL    |
+|
+| sexe           | char(1)              | YES  |     | NULL    |
+|
+| date_naissance | datetime             | NO   |     | NULL    |
+|
+| nom            | varchar(30)          | YES  |     | NULL    |
+|
+| commentaires   | text                 | YES  |     | NULL    |
+|
++----------------+----------------------+------+-----+---------+----------------
++
+6 rows in set (0.13 sec)
+
+mysql>
+---------------------------------------------------------------------
+mysql> SELECT * FROM ilyase;
+Empty set (0.08 sec)
+
+mysql> create table test_tuto(
+    -> id INT NOT NULL,
+    -> nom VARCHAR(10) NOT NULL,
+    -> PRIMARY KEY (id)
+    -> );
+Query OK, 0 rows affected (0.48 sec)
+
+
+mysql> alter table test_tuto
+    -> add column date_insertion date NOT NULL;
+Query OK, 0 rows affected (0.84 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> describe test_tuto;
++----------------+-------------+------+-----+---------+-------+
+| Field          | Type        | Null | Key | Default | Extra |
++----------------+-------------+------+-----+---------+-------+
+| id             | int(11)     | NO   | PRI | NULL    |       |
+| nom            | varchar(10) | NO   |     | NULL    |       |
+| date_insertion | date        | NO   |     | NULL    |       |
++----------------+-------------+------+-----+---------+-------+
+3 rows in set (0.02 sec)
+
+
+mysql> alter table test_tuto
+    -> drop date_insertion;
+Query OK, 0 rows affected (0.53 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> describe test_tuto;
++-------+-------------+------+-----+---------+-------+
+| Field | Type        | Null | Key | Default | Extra |
++-------+-------------+------+-----+---------+-------+
+| id    | int(11)     | NO   | PRI | NULL    |       |
+| nom   | varchar(10) | NO   |     | NULL    |       |
++-------+-------------+------+-----+---------+-------+
+2 rows in set (0.03 sec)
+
+mysql>
+
+----------------------------------
+mysql> alter table test_tuto
+    -> CHANGE id id BIGINT NOT NULL;
+Query OK, 0 rows affected (0.75 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+
+mysql> describe test_tuto;
++--------+-------------+------+-----+---------+-------+
+| Field  | Type        | Null | Key | Default | Extra |
++--------+-------------+------+-----+---------+-------+
+| id     | bigint(20)  | NO   | PRI | NULL    |       |
+| prenom | varchar(30) | NO   |     | NULL    |       |
++--------+-------------+------+-----+---------+-------+
+2 rows in set (0.03 sec)
+
+
