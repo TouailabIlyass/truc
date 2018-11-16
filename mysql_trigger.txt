@@ -1,0 +1,18 @@
+DELIMITER $$
+CREATE TRIGGER stockupdate 
+    BEFORE insert ON achat
+    FOR EACH ROW 
+BEGIN
+DECLARE nb INT default 0;
+declare msg varchar(128);
+SET nb = (SELECT stock FROM article WHERE id_article = NEW.id_article);
+
+IF(NEW.quantite > nb) THEN
+    set msg = 'out of stock';
+     signal sqlstate '45000' set message_text = msg;
+ELSE 
+    UPDATE article set stock=stock-NEW.quantite WHERE id_article = NEW.id_article;
+END IF;
+
+END$$
+DELIMITER ;

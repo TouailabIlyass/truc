@@ -1,0 +1,88 @@
+public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder> implements View.OnClickListener {
+
+    private ArrayList<ViewModel> items;
+    private OnItemClickListener onItemClickListener;
+
+    public RecyclerViewAdapter(ArrayList<ViewModel> items) {
+        this.items = items;
+    }
+
+
+    public void setOnItemClickListener(OnItemClickListener onItemClickListener) {
+        this.onItemClickListener = onItemClickListener;
+    }
+
+    @Override
+    public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+        View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_recycler, parent, false);
+        v.setOnClickListener(this);
+        return new ViewHolder(v);
+    }
+
+    public void updateData(ArrayList<ViewModel> viewModels) {
+        items.clear();
+        items.addAll(viewModels);
+        notifyDataSetChanged();
+    }
+    public void addItem(int position, ViewModel viewModel) {
+        items.add(position, viewModel);
+        notifyItemInserted(position);
+    }
+
+    public void removeItem(int position) {
+        items.remove(position);
+        notifyItemRemoved(position);
+    }
+
+
+
+    @Override
+    public void onBindViewHolder(ViewHolder holder, int position) {
+        ViewModel item = items.get(position);
+        holder.title.setText(item.getTitle());
+        Picasso.with(holder.image.getContext()).load(item.getImage()).into(holder.image);
+        holder.price.setText(item.getPrice());
+        holder.credit.setText(item.getCredit());
+        holder.description.setText(item.getDescription());
+
+        holder.itemView.setTag(item);
+    }
+
+    @Override
+    public int getItemCount() {
+        return items.size();
+    }
+
+    @Override
+    public void onClick(final View v) {
+        // Give some time to the ripple to finish the effect
+        if (onItemClickListener != null) {
+            new Handler().postDelayed(new Runnable() {
+                @Override
+                public void run() {
+                    onItemClickListener.onItemClick(v, (ViewModel) v.getTag());
+                }
+            }, 0);
+        }
+    }
+
+    protected static class ViewHolder extends RecyclerView.ViewHolder {
+        public ImageView image;
+        public TextView price, credit, title, description;
+
+        public ViewHolder(View itemView) {
+            super(itemView);
+            image = (ImageView) itemView.findViewById(R.id.image);
+            price = (TextView) itemView.findViewById(R.id.price);
+            credit = (TextView) itemView.findViewById(R.id.credit);
+            title = (TextView) itemView.findViewById(R.id.title);
+            description = (TextView) itemView.findViewById(R.id.description);
+        }
+    }
+
+    public interface OnItemClickListener {
+
+        void onItemClick(View view, ViewModel viewModel);
+
+    }
+}
