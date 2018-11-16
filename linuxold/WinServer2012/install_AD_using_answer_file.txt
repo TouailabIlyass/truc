@@ -1,0 +1,9 @@
+1- rename the script any name with an extension .ps1
+2- run the script using power shell by right clicking the script file.
+or to avoid security vulnerability)
+PS C:\Users\Administrator> executionpolicy
+RemoteSigned     (allow running scripts that I create manually but don't allow downloaded ones)
+PS C:\Users\Administrator> Set-ExecutionPolicy Restricted    
+PS C:\Users\Administrator> Set-ExecutionPolicy AllSigned    (only allow signed scripts)
+PS C:\Users\Administrator> Set-ExecutionPolicy Unrestricted
+PS C:\> ./script_name.ps1

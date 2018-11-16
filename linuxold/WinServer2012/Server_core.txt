@@ -1,0 +1,25 @@
+#switch between server core and GUI:
+powershell
+add-windowsfeature  -Name PowerShell-ISE,Server-GUI-Mgmt-Infra,Server-Gui-Shell  -computer Abeer_PC  -Restart
+or)
+powershell
+Import-Module ServerManager
+Install-WindowsFeature Server-Gui-Mgmt-Infra, Server-Gui-Shell -Restart
+
+#Remove a feature (feature-on-demand):
+uninstall-windowsfeature -name gpmc -vhd "c:\ProgramData\Microsoft\Windows\Hyper-Full\Virtual Hard Disks\Debug\Win-12 Full.vhdx" -Remove
+#Add a feature:
+Get-Windowsfeature 
+install-windowsfeature Dns -vhd "c:\ProgramData\Microsoft\Windows\Hyper-Full\Virtual Hard Disks\Debug\Win-12 Full.vhdx"
+
+#Minimal installation:
+uninstall-windowsfeature Server-Gui-Shell -whatif
+uninstall-windowsfeature Server-Gui-Shell -Restart
+install-windowsfeature Server-Gui-Shell -Restart
+
+#Enable or disable remote desk top:
+C:\Windows\System32>cscript scregedit.wsf /AR /v
+0 (enabled)     1 (disabled)
+C:\Windows\System32>cscript scregedit.wsf /AR 0
+
+

@@ -1,0 +1,2 @@
+If we accidentally deleted the service records in DNS, they can be re-created using:
+C:\Windows\system32>nltest /dsregdns

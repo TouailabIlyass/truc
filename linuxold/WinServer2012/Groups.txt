@@ -1,0 +1,22 @@
+### Add a new group ###
+New-ADGroup -Name "Developers" -Path "ou=sales,dc=tshoot,dc=com" -GroupCategory Security -GroupScope Global
+
+### Add a user to the group ###
+Add-ADGroupMember "developers" abeer -PassThru
+
+### Get a list of all users who are in the sales department ###
+Get-ADUser -Filter 'department -like "IT"'
+
+### Add the users in the IT department to the developers group ###
+Get-ADUser -Filter 'department -like "IT"' | ForEach-Object {Add-ADGroupMember -Identity developers -Members $_}
+
+### To verify ###
+Get-ADGroupMember 'developers'
+
+
+### To get a list of the groups I belong to ###
+whoami /all
+whoami /groups 
+whoami /groups /fo list
+
+

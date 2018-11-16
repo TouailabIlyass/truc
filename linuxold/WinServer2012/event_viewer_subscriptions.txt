@@ -1,0 +1,28 @@
+1- On the collector open event viewer and click on subscriptions to start the service or type the next command to start the service:
+
+C:\Windows\system32>wecutil qc
+
+2- On the forwarder type the command:
+C:\Windows\system32>winrm qc
+
+3- On the forwarder add the collector computer to the "event log reader" group, or using the power shell command:
+PS C:\Users\administrator.ecst> net localgroup "event log readers" master$ /add
+where master is the hostname of collector.
+
+4- On the collector go to the event viewer and create a subscription.
+
+5- On the collector type the next command:
+C:\Windows\system32>winrm id -remote:forwader.ecst.com
+where forwader.ecst.com is the FQDN of the forwader machine.
+
+6- On the forwader type the next command:
+C:\Windows\system32>winrm enumerate winrm/config/listener
+
+7- run badapp application on the forwarder to generate some logs.
+
+8- To customize the logs refresh period on the collector, type the command:
+C:\Windows\system32>wecutil ss "demo" /cm:custom
+
+C:\Windows\system32>wecutil ss "demo" /hi:600
+
+where "demo" is the name of the subscription and 600 is in msec.

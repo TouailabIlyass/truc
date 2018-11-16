@@ -1,0 +1,34 @@
+#configure IP address:
+C:\Users\abeer>netsh interface ipv4 show interface
+
+C:\Users\abeer>netsh interface ipv4 set address name=ethernet source=static address=192.168.1.20 mask=255.255.255.0 gateway=192.168.1.1
+
+C:\Users\abeer>netsh interface ipv4 add dnsserver name=ethernet address=8.8.8.8 index=1
+C:\Users\abeer>netsh interface ipv4 add dnsserver name=ethernet address=4.2.2.3
+
+hint) index=1 means that 8.8.8.8 will be the primary server
+
+#Hostname
+C:\Users\abeer>ipconfig /all
+or C:\Users\abeer>set
+or C:\Users\abeer>hostname 
+
+#change the hostname:
+C:\Users\abeer>netdom renamecomputer %computername% /newname:abeer-pc /userd:administrator /passwordd:asd@123 /reboot:0
+
+#join a domain:
+C:\Users\abeer>netdom join %computername% /domain:ecst.com /userd:administrator /passwordd:asd@123 /reboot:5
+hint)/reboot:0 means reboot immediately
+
+#Add a user account:
+C:\Users\abeer>net user abeer /add *
+hint) * to prompt for a password
+
+C:\Users\abeer>net localgroup administrators /add abeer        (add user abeer to admins group)
+to verify:
+C:\Users\abeer>net user abeer
+
+#Configure firewall:
+C:\Users\abeer>netsh advfirewall firewall set rule group="remote administration" new enable=yes
+C:\Users\abeer>netsh advfirewall set allprofiles state off
+C:\Users\abeer>netsh advfirewall reset     (reset firewall to the default)

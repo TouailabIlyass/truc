@@ -1,0 +1,27 @@
+1- Raise domain and forest functional level to 2003 at least.
+2- d:\>support\adprep>adprep /forestprep
+   d:\>support\adprep>adprep /domainprep
+3- Install Active direstory on 2012 and promote it as a domain controller in an  existing domain.
+note) make sure that DNS and GC are installed.
+4- Verisfy using the following consoles:
+   Active directory users and computers
+   Active directory sites and services
+   DNS console
+5- Move the FSMO roles to the new AD:
+c:\>netdom query fsmo    ( to chesk that they are exist on the 2008 machine)
+c:\>ntdsutil
+   :roles
+   :connections
+   :connect to server 2012.ecst.com
+   :quit
+   :transfer schema master
+   :transfer naming master
+   :transfer PDC
+   :transfer RID master
+   :transfer infrastructure master
+   :quit
+   :quit
+c:\>netdom query fsmo 
+6- uninstall AD from the 2008 machine to be just a computer account in the domain.
+Note: Don't check delete the domain because this server is the last domain controller in the domain.
+7- From active directory sites and services on the 2012 machine remove the 2008 one.

@@ -1,0 +1,9 @@
+#######################################
+Create a shadow copy for partition c:
+#######################################
+C:\Windows\system32>vssadmin create shadow /for=c:
+
+#######################################
+List all available shadow copies:
+#######################################
+C:\Windows\system32>vssadmin list shadows

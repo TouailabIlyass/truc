@@ -1,0 +1,10 @@
+1- Reset the computer account using active directory users and computers then rejoin the domain.
+
+2- c:\>dsmod computer "cn=pc,cn=computers,dc=ecst,dc=com" -reset
+Then rejoin the domain.
+
+3- From the client side: (doesn't require rejoin the domain)
+C:\Windows\system32>nltest.exe /server:pc /sc_reset:ecst\master
+where pc is the client name and master is the server name.
+C:\Windows\system32>powershell
+PS C:\Windows\system32> Test-ComputerSecureChannel -Repair      (to verify)(loged in as a DC account)

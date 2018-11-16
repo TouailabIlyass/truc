@@ -1,0 +1,17 @@
+#Defragmentation:
+C:\Windows\system32>ntdsuti
+ntdsutil: activate instance ntds
+ntdsutil: files      (Active Directory service must be not started)
+file maintenance: compact to c:\
+file maintenance: quit
+ntdsutil: quit
+C:\Windows\system32>copy c:\ntds.dit c:\Windows\NTDS\ntds.dit
+C:\Windows\system32>del c:\Windows\NTDS\*.log
+
+
+#Snapshot:
+C:\Windows\system32>ntdsuti
+ntdsutil: snapshot
+snapshot: activate instance ntds
+snapshot: create
+AD service must be running in order to perform this operation.

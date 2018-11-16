@@ -1,0 +1,20 @@
+To create installation media for IFM 
+1.Open a command prompt (cmd.exe) as an administrator. To open a command prompt as an administrator, click Start. In Start Search, type Command Prompt. At the top of the Start menu, right-click Command Prompt, and then click Run as administrator. If the User Account Control dialog box appears, enter the appropriate credentials (if requested) and confirm that the action it displays is what you want, and then click Continue.
+
+2.At the command prompt, type the following command, and then press ENTER:
+
+ntdsutil 
+
+3.At the ntdsutil prompt, type the following command, and then press ENTER:
+
+activate instance ntds 
+
+4.At the ntdsutil prompt, type the following command, and then press ENTER:
+
+ifm 
+
+5.At the ifm prompt, type the command for the type of installation media that you want to create, and then press ENTER. For example, to create installation media for a writable domain controller with SYSVOL, type the following command:
+
+create sysvol full <Drive>:\<InstallationMediaFolder> 
+
+Where <Drive>:\<InstallationMediaFolder> is the path to the folder where you want the installation media to be created. You can save the installation media to a network shared folder or to removable media.

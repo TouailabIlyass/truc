@@ -1,0 +1,90 @@
+Backup
+- To perform an authoritative restore for an object:
+C:\Windows\system32>ntdsutil
+ntdsutil: activate instance ntds
+ntdsutil: authoritative restore
+authoritative restore: restore object "cn=abeer,ou=sales,dc=tshoot,dc=com"
+authoritative restore: restore subtree "ou=branch,ou=sales,dc=tshoot,dc=com"
+authoritative restore: quit
+ntdsutil: quit
+
+Hint:
+to boot in restore mode:
+1- msconfig
+2- bcdedit /set safeboot dsrepair
+   bcdedit /deletevalue safeboot 
+==============================================================
+Recover system state using power shell:
+1- Run power shell as an administrator:
+
+C:\Windows\system32>wbadmin get versions
+C:\Windows\system32>wbadmin START SYSTEMSTATERECOVERY -version:0/11/2017-01:50
+
+==============================================================
+To change the default life time of a tombstone object:
+
+run ... adsiedit.msc
+connect to ... Select a well known naming context... Configuration
+CN=Services ... CN=Windows NT ... CN=Directory Service (Right Ckick and Properties)...
+tombstoneLifetime = 180 (by default)
+garbageCollPeriod = <not set>
+
+==============================================================
+To recover a deleted object without Backup and Recovery or Recycle Bin:
+run ... ldp.exe
+Connection ... connect ... the IP or FQDN of any writtable DC
+Connection ... bind ... Bind as currently logged on user. (Must be a domain or enterprise admin)
+Browse ... Search ...
+Base DN: CN=Deleted Objects,DC=tshoot,DC=com
+Filter: (objectclass=user)
+Scope: One Level
+Attributes: *
+Press Options... 
+Search Call Type: Extended
+Press Controls... 
+Load PreDefined: Return Deleted Objects
+Press Check Out ... Check In ... OK
+
+Now to recover the object:
+Browse ... Modify
+DN: CN=abeer\0ADEL:bdaa9660-e516-4aeb-8127-2027d22b4ecd,CN=Deleted Objects,DC=tshoot,DC=com
+Attribute: isDeleted
+Operation: Delete
+Enter...
+DN: CN=abeer\0ADEL:bdaa9660-e516-4aeb-8127-2027d22b4ecd,CN=Deleted Objects,DC=tshoot,DC=com
+Attribute: DistingushedName
+Values: CN=abeer,OU=UK,DC=tshoot,DC=com
+Operation: Replace
+Enter...
+==============================================================
+To remove a Domain Controller:
+1)Seize all roles
+
+C:\Windows\system32>ntdsutil
+ntdsutil: roles
+fsmo maintenance: connections
+server connections: connect to server localhost
+server connections: quit
+fsmo maintenance: seize schema master
+fsmo maintenance: seize naming master
+fsmo maintenance: seize PDC
+fsmo maintenance: seize RID master
+fsmo maintenance: seize infrastructure master
+fsmo maintenance: quit
+ntdsutil: quit
+
+2) Delete the additional DC
+C:\Windows\system32>ntdsutil
+ntdsutil: metadata cleanup
+metadata cleanup: connection
+server connections: connect to server localhost
+server connections: quit
+metadata cleanup: select operation target
+select operation target: list domains
+select operation target: select domain 0
+select operation target: list sites
+select operation target: select site 0
+select operation target: list server in site
+select operation target: select server 1
+select operation target: quit
+metadata cleanup: remove selected server

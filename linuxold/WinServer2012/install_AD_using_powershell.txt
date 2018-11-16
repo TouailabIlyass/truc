@@ -1,0 +1,11 @@
+1- install binaries:
+PS C:\Users\Administrator> Install-WindowsFeature -name ad-domain-services -includemanagementtools
+or)
+PS C:\Users\Administrator> Install-WindowsFeature -name ad-domain-services      (on win core)
+
+2- configure domain controller:
+PS C:\Users\Administrator> Install-ADDSForest -domainname "ecst.com"
+
+
+#uninstall  the additional domain controller:
+PS C:\Users\Administrator> Uninstall-ADDSDomainController

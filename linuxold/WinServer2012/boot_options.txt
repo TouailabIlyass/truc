@@ -1,0 +1,29 @@
+#####################################
+Gives general info about boot process
+#####################################
+C:\Windows\system32>bcdedit
+
+#####################################
+boot to safe mood next time
+#####################################
+C:\Windows\system32>bcdedit /set safeboot minimal
+
+#####################################
+boot to networking mode next time
+#####################################
+C:\Windows\system32>bcdedit /set safeboot network
+
+#####################################
+Safe Mode with Command Prompt: 
+#####################################
+C:\Windows\system32>bcdedit /set safebootalternateshell yes
+
+#####################################
+Return to default
+#####################################
+C:\Windows\system32>bcdedit /deletevalue safeboot
+
+#####################################
+To boot to recovery environment
+#####################################
+C:\Windows\system32>shutdown /r /o /t 0

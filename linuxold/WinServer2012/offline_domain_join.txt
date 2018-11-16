@@ -1,0 +1,4 @@
+1- On the domain controller side:
+c:\>djoin /provision /domain ecst.com /machine abeer-pc /savefile c:\file_name.txt
+2- Copy file_name.txt created in the command above to the target computer abeer-pc:
+c:\>djoin /requestODJ /loadfile c:\file_name.txt /windowspath %SystemRoot% /localOS
